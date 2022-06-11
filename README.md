@@ -3,16 +3,19 @@ The Clock Math Intervention Workbook is an open educational resource (OER) creat
 
 ## Table of Contents
 
-+ 35.0 Overview
-+ 35.1 Time Basics
-+ 35.2 Time Slices
-+ 35.3 Clock Basics
-+ 35.4 Clock Slices
-+ 35.5 Day Basics
-+ 35.6 Day Slices
-+ 35.7 Day Parts
-+ 35.8 Clock Hands Angles
-
++ [Overview](#overview)
++ [35.1 Time Basics](#351-time-basics)
++ [35.2 Time Slices](#352-time-slices)
++ [35.3 Clock Basics](#353-clock-basics)
++ [35.4 Clock Slices](#354-clock-slices)
++ [35.5 Day Basics](#355-day-basics)
++ [35.6 Day Slices](#356-time-slices)
++ [35.7 Day Parts](#357-day-parts)
++ [35.8 Clock Hands Angles](#358-clock-hands-angles)
++ Tables
+  + [Table A: Time Since Midnight](/TABLE-A.md)
+  + [Table B: Fractions of 60](url)
+  + [Table C: Music Playlist](url)
 
 ## Overview
 
@@ -44,8 +47,4 @@ Good luck and have fun!
 ## 35.6 Day Slices
 ## 35.7 Day Parts
 ## 35.8 Clock Hands Angles
-
-## 35.A Table A
-## 35.B Table B
-## 35.C Table C
 
