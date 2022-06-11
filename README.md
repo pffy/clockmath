@@ -1,4 +1,4 @@
-The Clock Math Intervention Workbook is an open educational resource (OER) created as part of a small group college math intervention. This OER has been designed to help improve self-efficacy for college students solving clock math arithemtic and elapsed time word problems in developmental math settings.
+The Clock Math Intervention Workbook is an open educational resource (OER) created as part of a **small group college math intervention.** This OER has been designed to help improve self-efficacy for college students solving clock math arithemtic and ***elapsed time word problems in developmental math settings.***
 
 
 ## Table of Contents
@@ -12,16 +12,15 @@ The Clock Math Intervention Workbook is an open educational resource (OER) creat
 + [35.6 Day Slices](#356-time-slices)
 + [35.7 Day Parts](#357-day-parts)
 + [35.8 Clock Hands Angles](#358-clock-hands-angles)
+
 + Tables
   + [Table A: Time Since Midnight](/TABLE-A.md)
-  + [Table B: Fractions of 60](url)
-  + [Table C: Music Playlist](url)
+  + [Table B: Fractions of 60](/TABLE-B.md)
+  + [Table C: Music Playlist](/TABLE-C.md)
 
 ## Overview
 
-There are 8 sections in this workbook.
-
-This workbook begins by discussing the idea of time and the units we use to group moments in time.
+**There are 8 sections in this workbook.** This workbook begins by discussing the idea of time and the units we use to group moments in time.
 
 After we review first principles and vocabulary and related to time, we introduce the concept of timekeeping using clocks or chronometers.
 
@@ -41,34 +40,27 @@ Good luck and have fun!
 
 ## 35.1 Time Basics
 
-Time is simply a tool.
+Time is simply a tool. No, no, no: not a manual or power tool, like ones at Home Depot.
 
-No, no, no: not a manual tool, like ones at Home Depot.
-
-Time is an abstract tool.
-
-Because it is an abstract tool, time is an interesting idea that can be applied to building or understanding other things.
+Time is an abstract tool. Because it is an abstract tool, time is an interesting idea that can be applied to building or understanding other things.
 
 Again, time is simply a tool.
 
-When we think about tools, we often think about hammers, screwdrivers, and wrenches.
+When we think about tools, we often think about hammers, screwdrivers, and wrenches. Measuring tapes are also very useful tools. They help us measure distances between two points in space.
 
-Measuring tapes are also very useful tools. They help us measure distances between two points in space.
-
-Time is a valuable tool in a similar way. It was invented to help us measure the distance between moments.
-
-In order to conduct that measurement between moments, time requires a fixed point of reference, which is usually an event.
+Time is a valuable tool in a similar way. It was invented to help us measure the distance between moments. In order to conduct that measurement between moments, time requires a fixed point of reference, which is usually an event.
 
 In this workbook, we focus on solar events because they are reliable, recurring events.
 
 Here are some examples of time words that use a point of reference: yesterday, today, tomorrow, before, now, after, long ago, soon, and forever.
 
-Each of these words implicitly refer to some positive or negative distance from a fixed point of reference in time.
+Each of these words implicitly refer to some positive or negative distance from a **fixed point of reference** in time.
 
 Time on Earth is based on events related to the motion of Earth within our Solar system. From scientific evidence, we can use the following facts as first principles:
 
-There are 365 days in a year. Earth revolves around the Sun, once per year. This reliable, recurring event helps us track months and years on Earth.
-There are 24 hours in a day. Earth rotates about its axis, once per day. This recurring event allows us to track sunrise and sunset times, which are partly based on geolocation, as well as Earth's orbit around the Sun.
+  + **There are 365 days in a year.** Earth revolves around the Sun, once per year. This reliable, recurring event helps us track months and years on Earth.
+  + **There are 24 hours in a day.** Earth rotates about its axis, once per day. This recurring event allows us to track sunrise and sunset times, which are partly based on geolocation, as well as Earth's orbit around the Sun.
+
 These facts are integrated into human language. When clock time is mentioned, we implicitly use these first principles to describe the amount of time that has elapsed since a new day (midnight), a new month, or a new year.
 
 For example, colloquially, we say "7:30 AM" instead of saying "it has been 7 hours and 30 minutes since midnight" because it is more convenient and easier to comprehend.
@@ -83,7 +75,7 @@ For intraday clock math problems, we will usually have between 0 and 24 hours (o
 
 Midnight and other boundary condition are a very important details that we must consider when solving elapsed time word problems. Time problems tend to be design problems due to the continuous nature of time.
 
-Each day can be viewed as a slice of time (discussed further in 35.2 Time Slices).
+Each day can be viewed as a slice of time (discussed further in [35.2 Time Slices](#352-time-slices).
 
 An abstraction of these events (e.g., since midnight, since the new year, etc.) can be placed on a number line.
 
@@ -95,7 +87,7 @@ Timelines can be labeled with either symbols or scalars to represent points in t
 
 Timelines can be used to represent sequential or simultaneous events. There are many examples of timelines, including historical timelines (in years) or podcast playlist (in minutes).
 
-Calendars are timelines, too.
+**Calendars** are timelines, too.
 
 You can view calendar timelines using a big picture view, such as months or years (e.g., financial or marketing schedules). You can also use a detailed view, such as hours or minutes (e.g., radio stations schedules).
 
@@ -110,6 +102,9 @@ When it comes to mastering time basics, the time is now.
 [![John Cena - My Time Is Now](https://i.ytimg.com/vi/_JAa3NvP6f4/mqdefault.jpg)](https://www.youtube.com/watch?v=_JAa3NvP6f4 "John Cena - My Time Is Now")
 
 ## 35.2 Time Slices
+
+
+
 ## 35.3 Clock Basics
 ## 35.4 Clock Slices
 ## 35.5 Day Basics
