@@ -21,21 +21,22 @@ The Clock Math Intervention Workbook is an open educational resource (OER) creat
 
 ## Overview
 
-**There are 8 sections in this workbook.** This workbook begins by discussing the idea of time and the units we use to group moments in time.
-
-After we review first principles and vocabulary and related to time, we introduce the concept of timekeeping using clocks or chronometers.
+**There are 8 sections in this workbook.** This workbook begins by discussing the idea of time and the units we use to group moments in time. After we review first principles and vocabulary and related to time, we introduce the concept of timekeeping using clocks or chronometers.
 
 Next, we use symbols, scalars. and units to describe and predict various day events. Clock times are the symbols that are converted to scalars on number lines, which are characterized by units. These number lines implement geometric concepts that we can use to predict the position of the sun throughout the day.
 
 Additionally, students practice converting clock times into the corresponding clock hands angles that are displayed on analog clock faces to represent time.
 
-The workbook concludes with a review of all the key concepts and some open-ended design problems.
+The workbook concludes with a review of all the key concepts and some open-ended design problems. This OER includes media (e.g., YouTube videos) and technical computing demonstrations (e.g., Wolfram Alpha).
 
-This OER includes media (e.g., YouTube videos) and technical computing demonstrations (e.g., Wolfram Alpha).
+Also, unlike many workbooks or textbooks that try to cover many topics, this OER is specifically designed to focus on the math skills required to solve clock math problems.
 
-Also, unlike many workbooks or textbooks that try to cover many topics, this OER is specifically designed to focus on the math skills required to solve clock math problems. The process of reaching any learning goal in math requires a balance of practice (recognition and repitition), higher order thinking skills, and relevance to real-world applications.
+The process of reaching any learning goal in math requires a balance of practice (recognition and repitition), higher order thinking skills, and relevance to real-world applications.
 
-> **NOTE:** We recommend that you do not cram or rush to finish all the chapters and exercises. Instead, you should take your time.
+> **NOTE:** We highly recommend that you do not cram or rush to finish all the sections and exercises in this workbook. Instead, please take your time.
+
+[![Take Your Time by Buddy Holly](https://i.ytimg.com/vi/f4584NjU2vU/mqdefault.jpg)](https://www.youtube.com/watch?v=f4584NjU2vU "Take Your Time by Buddy Holly")
+<br/>**MUSIC 🎵: Take your time - Buddy Holly**
 
 Good luck and have fun!
 
