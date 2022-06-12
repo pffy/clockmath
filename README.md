@@ -255,8 +255,7 @@ In the next section, we discuss how innovation in timekeeping gives us more time
 ## 35.3 Clock Basics
 
 [![Hung Up](https://i.ytimg.com/vi/20OGm_-RebE/mqdefault.jpg)](https://www.youtube.com/watch?v=20OGm_-RebE "Hung Up")
-<br/>
-MUSIC 🎵: Hung Up - Madonna
+<br/>**MUSIC 🎵: Hung Up - Madonna**
 
 Clock time is a tool that helps us keep track of another tool called time (as discussed in 35.1 Time Basics). Clock time is often represented by a symbol (e.g., 6:30 AM, 13:15) that refers to an event-based time.
 
@@ -276,6 +275,8 @@ A complete 60-minute trip around the clock face is 360 degrees. That fact helps 
 
 Our minds are set on the percentage of those 60 minutes that have elapsed within the hour, Percentage represent a fraction of 100, but each minute (of the hour) is a fraction of 60.
 
+[![George Harrison - Got My Mind Set On You (Version II)](https://i.ytimg.com/vi/_71w4UA2Oxo/mqdefault.jpg)](https://www.youtube.com/watch?v=_71w4UA2Oxo "George Harrison - Got My Mind Set On You (Version II)")
+<br/>`(Ctrl + Click)` **MUSIC 🎵: Got my mind set on you - George Harrison**
 
 
 
