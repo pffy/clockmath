@@ -71,8 +71,6 @@ After midnight, another day begins.
 [![After Midnight](https://i.ytimg.com/vi/UkWccgl-9vs/mqdefault.jpg)](https://www.youtube.com/watch?v=UkWccgl-9vs "After Midnight")
 <br/>MUSIC 🎵: After midnight - Eric Clapton
 
-
-
 For intraday clock math problems, we will usually have between 0 and 24 hours (or 1440 minutes) since midnight.
 
 Midnight and other boundary condition are a very important details that we must consider when solving elapsed time word problems. Time problems tend to be design problems due to the continuous nature of time.
@@ -542,11 +540,11 @@ Let us now take a quick look at more solar events. Two additional midpoints can 
 
 Mid-morning is the midpoint between sunrise and solar noon. Using the sports analogy, mid-morning is the end of the first quarter and the beginning of the second quarter.
 
-```screenshot```
+`screenshot`
 
 Mid-afternoon is the midpoint between solar noon and sunset. In terms of quarters, this event occurs at the end of the third quarter and the start of the fourth quarter.
 
-```screenshot```
+`screenshot`
 
 Each solar event provides us a percentage of daylight hours that have elapsed. In other words, at mid-morning 25% of daylight has elapsed. Similarly, by mid-afternoon, three-quarters (75%) of daylight hours have passed. At this point, only 25% of daylight hours remain.
 
@@ -595,7 +593,7 @@ Wolfram Alpha is a powerful computational engine. However, you cannot find dawn 
 
 Notice how Wolfram Alpha understands and interprets the abbreviations for New York City and March. You can experiment with abbreviations and see how Wolfram Alpha responds to your inputs.
 
-... You can also calculate the clock slice between two clock times using the following input:
+You can also calculate the clock slice between two clock times using the following input:
 
   + [from (morning civil twilight nyc mar 21) to (sunrise nyc mar 21)](https://www.wolframalpha.com/input?i=from+%28morning+civil+twilight+nyc+mar+21%29+to+%28sunrise+nyc+mar+21%29)
 
