@@ -561,7 +561,199 @@ Dawn promises a wonderful day and sometimes inspires a good mood. The dawn is of
 
 [![Edvard Grieg: Peer Gynt - Morning Mood](https://i.ytimg.com/vi/-rh8gMvzPw0/mqdefault.jpg)](https://www.youtube.com/watch?v=-rh8gMvzPw0 "Edvard Grieg: Peer Gynt - Morning Mood")
 
+The duration between dawn and sunrise varies by location and date. You may be surprised by the size of the difference throughout the calendar year. Of course, you can use Wolfram Alpha as a starting point for your experiments.
+
+### Dawn on Wolfram Alpha
+
+Wolfram Alpha is a powerful computational engine. However, you cannot find dawn times by simply entering "dawn" as a keyword. Instead, you must lookup dawn times using "morning civil twilight" by entering the following input:
+
+  + [morning civil twilight nyc mar 21](https://www.wolframalpha.com/input?i=morning+civil+twilight+nyc+mar+21)
+
+Notice how Wolfram Alpha understands and interprets the abbreviations for New York City and March. You can experiment with abbreviations and see how Wolfram Alpha responds to your inputs.
+
+... You can also calculate the clock slice between two clock times using the following input:
+
+  + [from (morning civil twilight nyc mar 21) to (sunrise nyc mar 21)](https://www.wolframalpha.com/input?i=from+%28morning+civil+twilight+nyc+mar+21%29+to+%28sunrise+nyc+mar+21%29)
+
+Now, let us look at dusk.
+
+## Dusk
+
+Dusk occurs after sunset.
+
+When dusk occurs, the sun is 6 degrees below the horizon, and most of the light has left the evening sky. Another term for dusk is evening civil twilight.
+
+### Dusk on Google Search
+
+You already learned how to lookup sunrise and sunset times on Wolfram Alpha (35.5 Day Basics). You can also lookup dawn and dusk times on Google Web Search. Simply enter the following commands:
+
+  + [dawn new york march 15](https://www.google.com/search?q=dawn+new+york+march+15)
+  + [dusk new york july 25](https://www.google.com/search?q=dusk+new+york+july+25)
+
+You can also search both dawn and dusk times simultaneously:
+
+  + [dawn dusk new york april 28](https://www.google.com/search?q=dawn+dusk+new+york+april+28)
+
+If you work from dusk until dawn, then you probably are interested about the middle of the night.
+
+## Solar Midnight
+
+In an earlier chapter (35.4 Clock Slices), we discussed the event called solar noon. As opposed to (traditional) noon, solar noon varies each day and is the midpoint between sunrise and sunset.
+
+We can make similar calculations when the Sun is on the other side of the planet. The clock slice between dusk and dawn is called night. The midpoint between dusk and dawn is called **solar midnight.**
+
+```screenshot```
+
+Like solar noon, solar midnight is different from traditional midnight because it can vary each 24-hour period.
+
+Let us recall that clock time is a tool used to help us organize and manage moments.
+
+Midnight is a fixed point of reference used to divide moments into measurable days. In order to calculate solar midnight, we can change the fixed point of reference from midnight to noon.
+
+```screenshot```
+
+Instead of using each (12:00 AM) midnight to create a (24-hour) day slice, we can use each (12:00 PM) noon to create a night slice.
+
+**NOTE:** There are still 24-hours in this time slice. The only difference is the fixed point of reference we have chosen.
+
+In this case of moving the "24-hour slice" from midnight to noon, we must use units called "minutes since noon" rather than "minutes since midnight" to clarify the amount of time elapsed from the specified point of reference.
+
+We are simply taking another slice of the number line (timeline) from a different marker. In this number line, solar midnight is the midpoint between dusk and dawn.
+
+Let us suppose that dusk is at 6:03 PM, followed by dawn on the next day at 6:20 AM. We would calculate the total clock slice between the two times by converting to units of "minutes since noon", while being careful how we use 24-hour time with the new clock slice.
+
+```
+example problem here
+```
+
+### Transportation Time Tables
+
+Notice how (12:00 AM) midnight is simply an arbitrary starting point for each day. In planning transportation timetables, a more adaptive use of clock time is often required.
+
+For example, it is possible that a subway train schedule in a timetable starts everyday at 4:00 AM, which creates a more useful fixed point of reference for a 24-hour day slice. This type of computational thinking is very important in software engineering design and systems architecture.
 
 
 # 35.8 Clock Hands Angles
+
+As discussed in an earlier chapter (35.4 Clock Slices), clock slices around a circular clock face can be characterized using the angles of the hour hand, minute hand, and second hand.
+
+Each of those clock hands move around the clock face with angles that are dependent on different elements of clock time.
+
+Now, we look more closely at the mechanics of clock time on analog clock faces.
+
+As mentioned in a previous chapter (35.4 Clock Slices), each hour marking on the clock face represents 30 degrees of movement for the hour hand.
+
+Each minute or second that passes can be observed by fractional angle changes of the hour hand.
+
+The minute hand moves across each of the sixty (60) markings around the clock at an offset of six (6) degrees per marking.
+
+In this workbook, the clock hands angle is defined as the angle between the hour hand and the minute hand on a clock face.
+
+The passing of each second also drives a fractional change in the minute hand angle on the clock. Similarly, each additional minute drives a fractional change in the hour hand.
+
+The second hand moves around the clock every 60 seconds. In some analog clocks, this motion is accompanied by the familiar ticking sound that helps us track moments in seconds as the Earth rotates about its axis. Other analog clocks may have a continuously sweeping second hand that rotates silently.
+
+Although there are "three layers of time" on a clock face, each clock hand must be at a specific angle at a specific time for the analog clock display to make sense.
+
+This understanding helps us build better analog clocks, both as hardware and software objects. Hardware clocks that provide more precision are more preferable due to better craftsmanship. After all, very precise timepieces are extremely expensive.
+
+Software clocks that are realistic reduce cogntive load while providing the skeuomorphic affordance that users want. Clock apps seem very simple, but they must be designed well for customer satisfaction.
+
+We can calculate the clock hands angles for specific times, and use this skill to find the same angle for different clock times throughout the day.
+
+For example, at 3:00 PM the hour hand and minute hand form a (90 degree) right angle at the top of the hour.
+
+For every other hour within the day, we can calculate the other clock times that would result in the the hour hand and the minute hand forming a 90 degree angle.
+
+These solutions can be checked by using many tools, including Wolfram Alpha.
+
+### Making clock faces on Wolfram Alpha
+
+In Wolfram Alpha, you can check your clock hands angle calculations using either visual representations of analog clock faces or mathematical inputs.
+
+For example, if you click on the following link, Wolfram Alpha will generate a clock face with the hour and minute hand located in the proper position.:
+
+  + [7:30 AM](https://www.wolframalpha.com/input?i=7%3A30+AM)
+
+Notice that while the minute hand is pointing precisely to the "6" marker on the clock, the hour hand is exactly halfway between the "7" and "8" marker.
+
+  + [2:57 PM](https://www.wolframalpha.com/input?i=2%3A57+PM)
+
+Notice that while the minute hand is nearly at the top of the hour, and the hour hand has not quite arrived at the "3" marker on the clock.
+
+## Time-angle equation
+
+Let us work through a possible math solution that provides us a working equation for finding clock hands angles and related times.
+
+The angle of the hour hand at a given clock time, in h hours and m minutes, can be computed using the following equation:
+
+```
+[[degrees]]
+H = (30 * h) + (30 * (m / 60))
+```
+
+This equation has been written using spreadsheet formula notation. Also, we have added the [[units]] label to the equation to meet MUCOW protocols.
+
+We can rewrite the above equation as the two components of a mixed number, describing a whole hour and fraction of an hour:
+
+```
+[[degrees]]
+H = 30 * h + 0.5 * m
+```
+
+The minute hand angle can simply be calculated using the following equation:
+
+```
+[[degrees]]
+M = 6 * m
+```
+
+At the top of the hour there are 0 minutes or 60 minutes, which results in either in 0 degrees or 360 degrees.
+
+The angle between the hour hand and minute hand can be calculating by simply computing the difference:
+
+```
+[[degrees]]
+A = H - M
+A = 30 * h - 5.5 * m
+```
+
+or simply:
+
+```
+[[degrees]]
+A = 30 * h - 5.5 * m
+```
+For convenience, we will refer to this derived equation as the time-angle equation.
+
+Let us pause to reflect. Prior knowledge of clock time helped us formulate useful expresions. We used these expressions to describe the movement of individual clock hands on the same clock face.
+
+Combining these related movements, we created a new equation as a tool for solving a specific problem at minimal cost in time and effort.
+
+We can use this time-angle equation to find the next clock time when the hour hand and minute hand form the same clock hands angle.
+
+### Exercise 35.8.1
+
+  a. Find the clock hands angle between the hour hand and minute hand, and
+  b. Find the next time the two hands are at that same angle.
+
+```
+6:30 AM
+2:15 PM
+9:30 AM
+8:25 PM
+```
+
+### EXERCISE 35.8.2
+
+Find all the clock times where the hour hand and minute hand are [collinear](https://mathworld.wolfram.com/Collinear.html) and point in the same direction.
+
+### EXERCISE 35.8.3
+
+Find all the clock times where the hour hand and minute hand are collinear and **point in opposite directions.**
+
+
+
+
+
 
