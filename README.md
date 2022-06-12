@@ -33,7 +33,7 @@ Also, unlike many workbooks or textbooks that try to cover many topics, this OER
 
 The process of reaching any learning goal in math requires a balance of practice (recognition and repitition), higher order thinking skills, and relevance to real-world applications.
 
-> **NOTE:** We highly recommend that you do not cram or rush to finish all the sections and exercises in this workbook. Instead, please take your time.
+We highly recommend that you do not cram or rush to finish all the sections and exercises in this workbook. Instead, please take your time.
 
 [![Take Your Time by Buddy Holly](https://i.ytimg.com/vi/f4584NjU2vU/mqdefault.jpg)](https://www.youtube.com/watch?v=f4584NjU2vU "Take Your Time by Buddy Holly")
 <br/>**MUSIC 🎵: Take your time - Buddy Holly**
