@@ -657,7 +657,7 @@ Although there are "three layers of time" on a clock face, each clock hand must 
 
 This understanding helps us build better analog clocks, both as hardware and software objects. Hardware clocks that provide more precision are more preferable due to better craftsmanship. After all, very precise timepieces are extremely expensive.
 
-Software clocks that are realistic reduce cogntive load while providing the skeuomorphic affordance that users want. Clock apps seem very simple, but they must be designed well for customer satisfaction.
+Software clocks that are realistic reduce cogntive load while providing the [skeuomorphic](https://www.interaction-design.org/literature/topics/skeuomorphism) affordance that users want. Clock apps seem very simple, but they must be designed well for customer satisfaction.
 
 We can calculate the clock hands angles for specific times, and use this skill to find the same angle for different clock times throughout the day.
 
