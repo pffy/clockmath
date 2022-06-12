@@ -535,7 +535,33 @@ In this chapter, we discussed day slices that help us practically divide and org
 
 In the next chapter (35.7 Day Parts), we will explore more subdivisions of the day and how they are used in real-world applications.
 
-
 # 35.7 Day Parts
+
+In this workbook, we have talked about how sunrise and sunset (as discussed in [35.5 Day Basics](#355-day-basics)) are the boundary events that start and end daylight hours.
+
+We also discussed the difference between traditional noon and solar noon (as introduced in [35.6 Day Slices](#356-day-slices)). Traditional noon divides the 24-hour day into two equal day slices. Solar noon splits day length two equal daylight slices.
+
+Mid-morning and mid-afternoon ([35.6 Day Slices](#356-day-slices)) were also described as additional waypoints along the solar path across the sky.
+
+Sunrise, sunset, mid-morning, mid-afternoon, noon, and solar noon are all points along a timeline that form sections within daylight hours.
+
+Outside of daylight hours, solar events still determine how we keep track of time within a 24-hour day. In this workbook, we describe these important intraday periods as day parts.
+
+In this chapter, we will explore the idea of additional day parts, which include more time slices based on important solar events.
+
+We will discuss the following events: dawn, dusk, and solar midnight.
+
+## Dawn
+
+Dawn occurs prior to sunrise.
+
+At dawn, the sun is 6 degrees below the horizon, and the light in the sky does not count as towards daylight hours. In the weather reports, dawn is often called morning civil twilight.
+
+Dawn promises a wonderful day and sometimes inspires a good mood. The dawn is often associated with a positive turn of events after times of turmoil or strife. This hopeful tone is captured in several motifs in classical music.
+
+[![Edvard Grieg: Peer Gynt - Morning Mood](https://i.ytimg.com/vi/-rh8gMvzPw0/mqdefault.jpg)](https://www.youtube.com/watch?v=-rh8gMvzPw0 "Edvard Grieg: Peer Gynt - Morning Mood")
+
+
+
 # 35.8 Clock Hands Angles
 
