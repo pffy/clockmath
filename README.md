@@ -225,7 +225,8 @@ Cardio workout music tends have a fast tempo, with frequent strong, loud bass be
 
 Inspirational music may have have a fast tempo with elements found in relaxing music.
 
-[![Alliance - Pillars of Creation [Epic Inspirational Orchestral]](https://i.ytimg.com/vi/tzS2ju1wh3I/mqdefault.jpg)](https://www.youtube.com/watch?v=tzS2ju1wh3I&feature=emb_title "Alliance - Pillars of Creation [Epic Inspirational Orchestral]")
+[![Alliance - Pillars of Creation Epic Inspirational Orchestral](https://i.ytimg.com/vi/tzS2ju1wh3I/mqdefault.jpg)](https://www.youtube.com/watch?v=tzS2ju1wh3I&feature=emb_title "Alliance - Pillars of Creation Epic Inspirational Orchestral")
+<br/>MUSIC 🎵: Pillars of creation - Alliance
 
 Real-time events have a constant tempo. In order to gain a different perspective, we need to capture real-time events at different speeds. We will now talk about slow-motion and time-lapse video recording.
 
@@ -332,7 +333,7 @@ Some clocks tick to mark the passing of a second; some do not. For decades, cloc
 [![Leroy Anderson - The Syncopated Clock](https://i.ytimg.com/vi/CrpdQngwk2g/mqdefault.jpg)](https://www.youtube.com/watch?v=CrpdQngwk2g "Leroy Anderson - The Syncopated Clock")
 <br/>**MUSIC 🎵: The syncopated clock - Leroy Anderson**
 
-[![J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)](https://i.ytimg.com/vi/W9Qtu15FLTM/mqdefault.jpg)](https://www.youtube.com/watch?v=W9Qtu15FLTM "J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)")
+[![J. Haydn - Hob I:101 - Symphony No. 101 in D major The clock (Brüggen)](https://i.ytimg.com/vi/W9Qtu15FLTM/mqdefault.jpg)](https://www.youtube.com/watch?v=W9Qtu15FLTM "J. Haydn - Hob I:101 - Symphony No. 101 in D major The clock (Brüggen)")
 <br/>**MUSIC 🎵: the clock symphony - FJ Haydn**
 
 [![Hans Zimmer - Mountains (Interstellar Soundtrack)](https://i.ytimg.com/vi/o_Ay_iDRAbc/mqdefault.jpg)](https://www.youtube.com/watch?v=o_Ay_iDRAbc "Hans Zimmer - Mountains (Interstellar Soundtrack)")
