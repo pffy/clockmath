@@ -249,9 +249,7 @@ Also, we can watch plants grow over several days.
 
 [![Bean Time-Lapse - 25 days | Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days | Soil cross section")
 
-In the next chapter (35.3 Clock Basics), we are going to talk about how innovation in timekeeping gives us more time to focus on other things.
-
-
+In the next section, we discuss how innovation in timekeeping gives us more time to focus on other things.
 
 
 ## 35.3 Clock Basics
