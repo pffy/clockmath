@@ -143,7 +143,7 @@ It is also important to note that even though these pizza slices are bundled, yo
 
 > **NOTE:** Some baking recipes call for heating food in an oven for durations between 75 and 85 minutes. In this case, the recipes are specifically using minutes to bundle the number of seconds needed for baking, while allowing easy comparisons between other baking times.
 
-Music albums are comprised of individual audio tracks. Each of those tracks can be described with a duration as a clock time (35.3 Clock Basics) in minutes and seconds.
+Music albums are comprised of individual audio tracks. Each of those tracks can be described with a duration as a clock time (discussed later in [35.3 Clock Basics](#353-clock-basics)) in minutes and seconds.
 
 Instead of using seconds, we use bundles of seconds to describe the various track times.
 
@@ -229,7 +229,7 @@ Slow motion is also very useful in other activities, such as crash testing autom
 
 When we view slow-motion video from multiple angles simultaenously, we have bullet time.
 
-[![Neo Dodging Bullets | The Matrix](https://i.ytimg.com/vi/ODmhPsgqGgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ODmhPsgqGgQ&feature=emb_title "Neo Dodging Bullets | The Matrix")
+[![Neo Dodging Bullets - The Matrix](https://i.ytimg.com/vi/ODmhPsgqGgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ODmhPsgqGgQ&feature=emb_title "Neo Dodging Bullets | The Matrix")
 
 When we mix bullet time with computational photography, you can generate photogrammetry and other 3D informatics.
 
@@ -247,7 +247,7 @@ While slow-motion video adds more picture frames per socond, time-lapse video ma
 
 Also, we can watch plants grow over several days.
 
-[![Bean Time-Lapse - 25 days | Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days | Soil cross section")
+[![Bean Time-Lapse - 25 days - Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days | Soil cross section")
 
 In the next section, we discuss how innovation in timekeeping gives us more time to focus on other things.
 
