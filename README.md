@@ -253,6 +253,32 @@ In the next section, we discuss how innovation in timekeeping gives us more time
 
 
 ## 35.3 Clock Basics
+
+[![Hung Up](https://i.ytimg.com/vi/20OGm_-RebE/mqdefault.jpg)](https://www.youtube.com/watch?v=20OGm_-RebE "Hung Up")
+<br/>
+MUSIC 🎵: Hung Up - Madonna
+
+Clock time is a tool that helps us keep track of another tool called time (as discussed in 35.1 Time Basics). Clock time is often represented by a symbol (e.g., 6:30 AM, 13:15) that refers to an event-based time.
+
+If we simply look at clock time as "something" we should know, then we may not completely understand what the symbols represent.
+
+Instead, we will look more closely and carefully at clock time as a symbol and reflect on how we interpret that symbol to communicate specific moments in time.
+
+When we learn to count to ten, we are using a base 10 numerals. Larger numbers are grouped in bundles of 10 whenever possible.
+
+Clock time introduces us to base 60 (or sexagesimal) counting. We bundle 60 seconds in a minute; we also group 60 minutes in an hour.
+
+In other words, we count from 0 to 59 seconds, and add a minute to our overall total. Also, when reach 60 minutes, another hour has elapsed.
+
+With this in mind, let us think about the math we use when we set an analog clock or mechanical watch. We know the current clock time, and we need to set that clock to match that time.
+
+A complete 60-minute trip around the clock face is 360 degrees. That fact helps us determine an approximate angle for the minute hand.
+
+Our minds are set on the percentage of those 60 minutes that have elapsed within the hour, Percentage represent a fraction of 100, but each minute (of the hour) is a fraction of 60.
+
+
+
+
 ## 35.4 Clock Slices
 ## 35.5 Day Basics
 ## 35.6 Day Slices
