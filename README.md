@@ -363,7 +363,67 @@ Convert the following clock time symbols to:
 ```
 
 # 35.4 Clock Slices
+
+Clock slices describe sections of clock time (35.3 Clock Basics).
+
+On a circular clock face, clock slices may resemble circular sectors (see Circular Sectors on Wolfram MathWorld).
+
+Sectors are shaped like pie slices. In fact, we can use pie charts to diagram clock slices. The angular position of the hands on a clock also provide pie-like sectors (discussed later in 35.8 Clock Hands Angles).
+
+On a timeline (a special number line that represents time), we can depict clock slices as linear segments.
+
+In our first discussion about time, we noted that a fixed point of reference is required in order to effectively use time as tool. Using this logic, each clock would have a start or end time as a fixed point of reference, as well as another point indicating the "time distance" from the fixed point.
+
+Each clock slice would have a start or end time as a fixed point of reference, as well as another point indicating the "time distance" from the fixed point.
+
+A clock face can be divided in multiple ways.
+
+If we use each of the 12 hours on a clock as delimiters, we can create 12 sectors (or 12 clock slices) on the clock face. This the key design in a clock diagram.
+
+Many clocks also have 60 dashes around the perimeter to represent minutes or seconds. It is possible to break the clock face up into 60 sectors.
+
+We also often imagine clock slices in terms of quarter-hours (4 sectors of clock time per hour) and half-hours (2 sectors of clock time per hour).
+
+## News Wheels
+
+On terrestrial radio stations that broadcast the all-news format, the clock face is divided into clock slices that contain different topics. On these radio stations, traffic and weather are provided every 10 minutes, while sports, business, and other news topics are delivered once per half hour.
+
+These "news wheel" radio stations repeat this cycle once per hour for 24 hours each day. You could use a clock diagram to visualize the hourly news content.
+
+## Clock slice components
+
+Each of the clock slices can be also associated with angles around a 360-degree circle. Each hour is offset by 30 degrees; each minute or second is separated by 6 degrees.
+
+These details are very important in a later chapter (35.8 Clock Hands Angles). For now, we are focusing on the idea of the distance between two very close points on a timeline.
+
+Clock slices can represent the duration between clock times. In the previous chapter (35.3 Clock Basics), we talked about how each clock time can be represented by the "distance" in minutes from the prior midnight.
+
+If we have two clock times, we can calculate the duration of the clock slice on the timeline. For example, we can create a clock slice between 5:00 AM and 7:00 PM. The size of the slice is 14 hours.
+
+```slice here```
+
+We can use the calculation of clock slice duration for many other tasks, such as computing the amount of daylight, between sunrise and sunset (35.5 Day Basics). We will go into more detail about that in the next chapter. For now, let us look at more examples of clock slices.
+
+## Countdown clocks
+
+Countdown clocks (timers) are designed to count time in reverse towards an event (or a point of reference).
+
+In many sports, we often use timers to count down to the end of a quarter or period. We can also use countdown clocks to measure clock slices leading up to space rocket launches, retail sale events, or even rock concerts.
+
+[![Europe - The Final Countdown (Official Video)](https://i.ytimg.com/vi/9jK-NcRmVcw/mqdefault.jpg)](https://www.youtube.com/watch?v=9jK-NcRmVcw "Europe - The Final Countdown (Official Video)")
+
+As a timer counts down, we are measuring the amount of time remaining in a specific duration. When the countdown reaches zero, time goes on. WE see this is the [NASA countdown clock](https://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html).
+
+While time on a countdown clock is running out (or moving towards zero), it may add pressure to a situation. Time is neither speeding up nor slowing down, but as time runs out on the clock, our perception of time can change.
+
+This is why training is important in everything -- including test-taking -- to help improve your performance as time is running out.
+
+[![Apollo 440 - Time Is Running Out (Official Audio)](https://i.ytimg.com/vi/OEqhS80_MCI/mqdefault.jpg)](https://www.youtube.com/watch?v=OEqhS80_MCI "Apollo 440 - Time Is Running Out (Official Audio)")
+
 # 35.5 Day Basics
+
+
+
 # 35.6 Day Slices
 # 35.7 Day Parts
 # 35.8 Clock Hands Angles
