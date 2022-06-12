@@ -69,6 +69,9 @@ However, in our math calculations, it is very important for us to include explan
 After midnight, another day begins.
 
 [![After Midnight](https://i.ytimg.com/vi/UkWccgl-9vs/mqdefault.jpg)](https://www.youtube.com/watch?v=UkWccgl-9vs "After Midnight")
+<br/>MUSIC 🎵: After midnight - Eric Clapton
+
+
 
 For intraday clock math problems, we will usually have between 0 and 24 hours (or 1440 minutes) since midnight.
 
@@ -104,6 +107,7 @@ When it comes to mastering time basics, the time is now.
 # 35.2 Time Slices
 
 [![Cyndi Lauper - Time After Time (Audio)](https://i.ytimg.com/vi/F1mqrCTFoz4/mqdefault.jpg)](https://www.youtube.com/watch?v=F1mqrCTFoz4&feature=emb_title "Cyndi Lauper - Time After Time (Audio)")
+<br/>**MUSIC 🎵: Time after time - Cyndi Lauper**
 
 In the previous section, we discussed the utility and basics of a useful tool called time.
 
@@ -120,6 +124,7 @@ In this section, we will discuss how time slices (groups of time) can be even mo
 Let us practice identifying and describing time slices. Time slices in nature can be based on seasonal events (e.g., Spring, Summer, Autumn, and Winter).
 
 [![Four Seasons ~ Vivaldi](https://i.ytimg.com/vi/GRxofEmo3HA/mqdefault.jpg)](https://www.youtube.com/watch?v=GRxofEmo3HA&feature=emb_title "Four Seasons ~ Vivaldi")
+<br/>**MUSIC 🎵: The Four Seasons - Antonio Vivaldi**
 
 In other cases, time slices can be used to denote an era or special time period (e.g., the Renaissance, the Age of Enlightenment, the Victorian era, ante meridiem, post meridiem, etc).
 
@@ -174,6 +179,7 @@ Some musical genres use certain time signatures to organize musical ideas.
 Marches are usually in 2/4 time. This helps participants in a parade march to the beat with precision. Each measure is typically marked by the loud "boom" of a bass drum. Every Fourth of July, John Philip Sousa's "Washington Post March" can be heard being played from coast to coast.
 
 [![Sousa - The Washington Post March](https://i.ytimg.com/vi/pOCxegQupMU/mqdefault.jpg)](https://www.youtube.com/watch?v=pOCxegQupMU&feature=emb_title "Sousa - The Washington Post March")
+<br/>**MUSIC 🎵: The Washington Post March - JP Sousa**
 
 Waltzes are generally in 3/4 time. The beginning of each ("boom-chuck-chuck") measure helps ballroom dancers keep pace with the music. One of the most famous waltzes in the world is the "The Blue Danube" by Johann Strauss (junior).
 
@@ -183,18 +189,22 @@ Waltzes are generally in 3/4 time. The beginning of each ("boom-chuck-chuck") me
 Many musical compositions are written in 4/4 time (also known as common time), which makes it a versatile time tool for orchestral composers. For example, Franz Joseph Haydn uses common time in the "Trumpet Concerto in E-flat major", a classical music piece that was used as a way to demonstrated the features of a new Anton Weidinger invention called the keyed trumpet.
 
 [![Alison Balsom, 'Haydn Trumpet Concerto in Eb, 1st mov.' (Allegro)](https://i.ytimg.com/vi/ZUZYoVw7moc/mqdefault.jpg)](https://www.youtube.com/watch?v=ZUZYoVw7moc "Alison Balsom, 'Haydn Trumpet Concerto in Eb, 1st mov.' (Allegro)")
+<br/>**MUSIC 🎵: Trumpet Concerto in E-flat - FJ Haydn**
 
 Some songs have more than 4 beats per measure, such as Dave Brubeck's jazz standard called "Take Five", written in 5/4 time. There are 5 beats in each measure.
 
 [![Dave Brubeck - Take Five](https://i.ytimg.com/vi/vmDDOFXSgAs/mqdefault.jpg)](https://www.youtube.com/watch?v=vmDDOFXSgAs&feature=emb_title "Dave Brubeck - Take Five")
+<br/>**MUSIC 🎵: Take five - Dave Brubeck**
 
 Dave Brubeck also wrote "Unsquare Dance", which has a time signature of 7/4 time. The tempo increases gradually throughout the song, but we still always have 7 beats per measure.
 
 [![Unsquare Dance](https://i.ytimg.com/vi/lbdEzRfbeH4/mqdefault.jpg)](https://www.youtube.com/watch?v=lbdEzRfbeH4&feature=emb_title "Unsquare Dance")
+<br/>**MUSIC 🎵: Unsquare Dance - Dave Brubeck**
 
 Additionally, songs can alternate between two or more time signatures, such as "Turn It On Again" by Genesis.
 
 [![Genesis - Turn It on Again](https://i.ytimg.com/vi/StfLy3pzno0/mqdefault.jpg)](https://www.youtube.com/watch?v=StfLy3pzno0 "Genesis - Turn It on Again")
+<br/>**MUSIC 🎵: Turn it on again - Genesis**
 
 Time signatures also serve as a useful tool to ensure all the sounds (or silence) of each measure adds up. For example, in 4/4 time (also known as common time), we have 4 beats per measure, with the quarter note as the basis. If there is a whole note (which is equal to 4 quarter notes) in the measure, no other notes can be added in that measure. On the other hand, if there are two quarter notes in the measure, the remaining notes may include a half note (which is equal to 2 quarter notes).
 
@@ -203,6 +213,7 @@ The main idea here is that time signatures provide a mathematical structure for 
 Here is an example from the film Amadeus (1984), where two composers are using time signatures and measures to organize various vocalists and instrumentalists on a score.
 
 [![Mozart and Salieri write 'Requiem in D Minor' (Full HD) - Amadeus (1984)](https://i.ytimg.com/vi/USe-wZ0AOQQ/mqdefault.jpg)](https://www.youtube.com/watch?v=USe-wZ0AOQQ&feature=emb_title "Mozart and Salieri write 'Requiem in D Minor' (Full HD) - Amadeus (1984)")
+<br/>**VIDEO 🎥 from Amadeus(1984)**
 
 As we have discussed, time signatures help us organize musical ideas. We will now explore how tempo is used to control the rate at which these ideas are played.
 
@@ -229,10 +240,12 @@ Professional athletes who spend time in the film room are better able to prepare
 Slow motion is also very useful in other activities, such as crash testing automobiles.
 
 [![Red-light-running crash test demonstration](https://i.ytimg.com/vi/S3-esjKXh5g/mqdefault.jpg)](https://www.youtube.com/watch?v=S3-esjKXh5g&feature=emb_title "Red-light-running crash test demonstration")
+<br/>**VIDEO 🎥 crash dummy test**
 
 When we view slow-motion video from multiple angles simultaenously, we have bullet time.
 
 [![Neo Dodging Bullets - The Matrix](https://i.ytimg.com/vi/ODmhPsgqGgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ODmhPsgqGgQ&feature=emb_title "Neo Dodging Bullets - The Matrix")
+<br/>**VIDEO 🎥 bullet time from Matrix(1999)**
 
 When we mix bullet time with computational photography, you can generate photogrammetry and other 3D informatics.
 
@@ -247,10 +260,12 @@ We can see a valuable application of this principle in time-lapse video (or film
 While slow-motion video adds more picture frames per socond, time-lapse video may only record new picture frames every minute or every hour. This is a popular film technique on construction sites over several months.
 
 [![Home Build Time-Lapse](https://i.ytimg.com/vi/Fb531GJrCQY/mqdefault.jpg)](https://www.youtube.com/watch?v=Fb531GJrCQY&feature=emb_title "Home Build Time-Lapse")
+<br/>**VIDEO 🎥 home construction time-lapse**
 
 Also, we can watch plants grow over several days.
 
 [![Bean Time-Lapse - 25 days - Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days - Soil cross section")
+<br/>**VIDEO 🎥 bean sprout time-lapse**
 
 In the next section, we discuss how innovation in timekeeping gives us more time to focus on other things.
 
@@ -315,10 +330,13 @@ Now, let's talk about clocks -- well, clock devices.
 Some clocks tick to mark the passing of a second; some do not. For decades, clocks have captured the imagination of artists and musicians.
 
 [![Leroy Anderson - The Syncopated Clock](https://i.ytimg.com/vi/CrpdQngwk2g/mqdefault.jpg)](https://www.youtube.com/watch?v=CrpdQngwk2g "Leroy Anderson - The Syncopated Clock")
+<br/>**MUSIC 🎵: The syncopated clock - Leroy Anderson**
 
 [![J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)](https://i.ytimg.com/vi/W9Qtu15FLTM/mqdefault.jpg)](https://www.youtube.com/watch?v=W9Qtu15FLTM "J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)")
+<br/>**MUSIC 🎵: the clock symphony - FJ Haydn**
 
 [![Hans Zimmer - Mountains (Interstellar Soundtrack)](https://i.ytimg.com/vi/o_Ay_iDRAbc/mqdefault.jpg)](https://www.youtube.com/watch?v=o_Ay_iDRAbc "Hans Zimmer - Mountains (Interstellar Soundtrack)")
+<br/>**MUSIC 🎵: Mountains - Hans Zimmer**
 
 The local event that is the basis for clock time occurs when the Earth completes a single rotation about its axis and automatically begins another one. Every midnight represents a clock time boundary that separates the previous day from the next day.
 
@@ -345,6 +363,7 @@ Many towns simply had a single town clock or church bells to help everyone nearb
 In order to "perform work" on clock math problems, we must learn how to convert between clock times and the number of hours, minutes, and seconds since midnight.
 
 [![Amilcare Ponchielli - Dance of the Hours](https://i.ytimg.com/vi/W3ILbnHhAzk/mqdefault.jpg)](https://www.youtube.com/watch?v=W3ILbnHhAzk "Amilcare Ponchielli - Dance of the Hours")
+<br/>**MUSIC 🎵: Dance of the hours - Amilcare Ponchielli**
 
 The skills related to clock time conversion wil make solving clock math problems more simple and organized.
 
@@ -414,6 +433,7 @@ Countdown clocks (timers) are designed to count time in reverse towards an event
 In many sports, we often use timers to count down to the end of a quarter or period. We can also use countdown clocks to measure clock slices leading up to space rocket launches, retail sale events, or even rock concerts.
 
 [![Europe - The Final Countdown (Official Video)](https://i.ytimg.com/vi/9jK-NcRmVcw/mqdefault.jpg)](https://www.youtube.com/watch?v=9jK-NcRmVcw "Europe - The Final Countdown (Official Video)")
+<br/>**MUSIC 🎵: The final countdown - Europe**
 
 As a timer counts down, we are measuring the amount of time remaining in a specific duration. When the countdown reaches zero, time goes on. WE see this is the [NASA countdown clock](https://www.nasa.gov/mission_pages/shuttle/launch/countdown101.html).
 
@@ -422,6 +442,7 @@ While time on a countdown clock is running out (or moving towards zero), it may 
 This is why training is important in everything -- including test-taking -- to help improve your performance as time is running out.
 
 [![Apollo 440 - Time Is Running Out (Official Audio)](https://i.ytimg.com/vi/OEqhS80_MCI/mqdefault.jpg)](https://www.youtube.com/watch?v=OEqhS80_MCI "Apollo 440 - Time Is Running Out (Official Audio)")
+<br/>**MUSIC 🎵: Time is running out - Apollo 440**
 
 # 35.5 Day Basics
 
@@ -434,6 +455,7 @@ With clocks, the scheduling and recording of time-based events also has become m
 As we discussed earlier, there are 24 hours in a day (35.1 Time Basics). Part of each day includes daylight, which describes the clock slice between the events of sunrise and sunset.
 
 [![Here Comes The Sun (Remastered 2009)](https://i.ytimg.com/vi/xUNqsfFUwhY/mqdefault.jpg)](https://www.youtube.com/watch?v=xUNqsfFUwhY "Here Comes The Sun (Remastered 2009)")
+<br/>**MUSIC 🎵: Here comes the sun - Beatles**
 
 Sunrise is the event where the Sun moves above the horizon. During daylight hours the Sun travels across the sky.
 
@@ -560,6 +582,7 @@ At dawn, the sun is 6 degrees below the horizon, and the light in the sky does n
 Dawn promises a wonderful day and sometimes inspires a good mood. The dawn is often associated with a positive turn of events after times of turmoil or strife. This hopeful tone is captured in several motifs in classical music.
 
 [![Edvard Grieg: Peer Gynt - Morning Mood](https://i.ytimg.com/vi/-rh8gMvzPw0/mqdefault.jpg)](https://www.youtube.com/watch?v=-rh8gMvzPw0 "Edvard Grieg: Peer Gynt - Morning Mood")
+<br/>**MUSIC 🎵: Morning mood from Peer Gynt - Edvard Grieg**
 
 The duration between dawn and sunrise varies by location and date. You may be surprised by the size of the difference throughout the calendar year. Of course, you can use Wolfram Alpha as a starting point for your experiments.
 
