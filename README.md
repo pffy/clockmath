@@ -98,7 +98,8 @@ Until then, take a few moments to review what we have discussed in this chapter.
 
 When it comes to mastering time basics, the time is now.
 
-[![John Cena - My Time Is Now](https://i.ytimg.com/vi/_JAa3NvP6f4/mqdefault.jpg)](https://www.youtube.com/watch?v=_JAa3NvP6f4 "John Cena - My Time Is Now")
+[![John Cena - The Time Is Now (Entrance Theme)](https://i.ytimg.com/vi/svjMiqVeiG8/mqdefault.jpg)](https://www.youtube.com/watch?v=svjMiqVeiG8 "John Cena - The Time Is Now (Entrance Theme)")
+<br>**MUSIC 🎵: The time is now - John Cena**
 
 # 35.2 Time Slices
 
@@ -113,7 +114,6 @@ Moments come and go, based on our frame of reference. Our memories are recollect
 Time is a tool that helps us understand past moments while allowing us to make reasonable predictions for future moments.
 
 It is true that we can reminisce about past moments. We can also celebrate the arrival of a current moment. We have anticipated a specific moment for a certain amount of time (a time slice). We experience this anticipation every New Year's Eve, as we countdown the moments until New Year's Day.
-
 
 In this section, we will discuss how time slices (groups of time) can be even more useful when measured and compared.
 
@@ -176,6 +176,9 @@ Marches are usually in 2/4 time. This helps participants in a parade march to th
 [![Sousa - The Washington Post March](https://i.ytimg.com/vi/pOCxegQupMU/mqdefault.jpg)](https://www.youtube.com/watch?v=pOCxegQupMU&feature=emb_title "Sousa - The Washington Post March")
 
 Waltzes are generally in 3/4 time. The beginning of each ("boom-chuck-chuck") measure helps ballroom dancers keep pace with the music. One of the most famous waltzes in the world is the "The Blue Danube" by Johann Strauss (junior).
+
+[![Johann Strauss II - The Blue Danube Waltz](https://i.ytimg.com/vi/_CTYymbbEL4/mqdefault.jpg)](https://www.youtube.com/watch?v=_CTYymbbEL4 "Johann Strauss II - The Blue Danube Waltz")
+<br/>**MUSIC 🎵: The Blue Danube Waltz - Johann Strauss II**
 
 Many musical compositions are written in 4/4 time (also known as common time), which makes it a versatile time tool for orchestral composers. For example, Franz Joseph Haydn uses common time in the "Trumpet Concerto in E-flat major", a classical music piece that was used as a way to demonstrated the features of a new Anton Weidinger invention called the keyed trumpet.
 
