@@ -473,6 +473,41 @@ Convert the sunrise and sunset clock times in [EXERCISE 35.5.1](#exercise-3551) 
 
 
 # 35.6 Day Slices
+
+In the previous chapter (35.5 Day Basics), we discussed that daylight hours describe the amount of time between sunrise and sunset. These sunrise and sunset times vary by date and location.
+
+In this chapter, we will divide the day length into multiple day slices. Each day slice describes the subdivision of daylight based on a solar event.
+
+The subdivisions of daylight hours are not unlike the quarters or periods in sporting events. Many athletic competitions divide their total game time into two halves. Each half can also be further divided into four quarters.
+
+In a similar way, daylight hours can be divided into halves and quarters in order to improve time management. While there may be timeouts or commercial breaks in sporting events, solar events are continuous and uninterrupted.
+
+Noon and Solar Noon
+Let us first look at both noon and solar noon.
+
+Noon (12:00 PM) describes the division of a 24-hour day between AM (antemeridiem or "before midday") hours and PM (postmeridiem or "after midday") hours.
+
+We use AM and PM to clarify whether times are in the morning or in the afternoon or evening. Noon always occurs at the midpoint between each midnight.
+
+```diagram here```
+
+In contrast to (traditional) noon, solar noon is defined as the highest point of the Sun during the day, which can vary by the sunrise and sunset times. Solar noon is always the midpoint between sunrise and sunset.
+
+```diagram here```
+
+### Using Google Sheets
+
+In Google Sheets, you can simply calculate solar noon by using both the sunrise and sunset times in the `=AVERAGE()` spreadsheet formula. [Learn more](https://support.google.com/docs/answer/3093615****) about the AVERAGE formula.
+
+```visualbasic
+=AVERAGE("5:46AM", "7:14PM")
+```
+
+> **NOTE:** Spreadsheet cell must be set to the "Time" format. Learn more
+
+
+
+
 # 35.7 Day Parts
 # 35.8 Clock Hands Angles
 
