@@ -425,6 +425,51 @@ This is why training is important in everything -- including test-taking -- to h
 
 # 35.5 Day Basics
 
+The past two chapters (35.3 Clock Basics, 35.4 Clock Slices) have focused on clocks.
+
+Clocks added an automated way to track bundles of time, which allowed communities to focus on other ideas and tasks. With that automation, time management of duration (clock slices) between clock times became more practical.
+
+With clocks, the scheduling and recording of time-based events also has become more efficient. Today we experience this impact when we check train departure times or retail store hours. In other words, business and travel occur in clock slices.
+
+As we discussed earlier, there are 24 hours in a day (35.1 Time Basics). Part of each day includes daylight, which describes the clock slice between the events of sunrise and sunset.
+
+[![Here Comes The Sun (Remastered 2009)](https://i.ytimg.com/vi/xUNqsfFUwhY/mqdefault.jpg)](https://www.youtube.com/watch?v=xUNqsfFUwhY "Here Comes The Sun (Remastered 2009)")
+
+Sunrise is the event where the Sun moves above the horizon. During daylight hours the Sun travels across the sky.
+
+Sunset occurs when the Sun moves below the horizon. Daylight hours are often mentioned in weather reports as day length.
+
+The measurement "Length of Day" is listed in the Astronomy section of this weather report on Weather Underground:
+
+```screenshot here```
+
+Earth rotates about a tilted axis. This affects the amount of day length during the year. In the Northern Hemisphere, there is more daylight in the June. On the other hand, in the Southern Hemisphere have the most daylight in December.
+
+Therefore, the sunrise and sunset times are affected by both date and location.
+
+### Using Wolfram Alpha
+
+You can specify both the date and location for sunrise and sunset times in your query:
+  + [sunrise london may 1](https://www.wolframalpha.com/input?i=sunrise+london+may+1)
+  + [sunset new york march 15](https://www.wolframalpha.com/input?i=sunset+new+york+march+15)
+  + [day length seattle october 31](https://www.wolframalpha.com/input?i=day+length+seattle+october+31)
+
+Let us complete some exercises for practice.
+
+### Exercise 35.5.1
+
+Find the sunrise times, sunset times, and day lengths for different locations around the world for the following dates:
+
++ January 1
++ March 15
++ July 4
++ October 31
++ December 25
+
+### Exercise 35.5.2
+
+Convert the sunrise and sunset clock times in [EXERCISE 35.5.1](#exercise-3551) to scalars. Add units of "minutes since midnight" for each conversion. Calculate the day length for each location using units of "minutes of daylight" for the day length time slice.
+
 
 
 # 35.6 Day Slices
