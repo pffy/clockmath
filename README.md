@@ -205,6 +205,52 @@ As we have discussed, time signatures help us organize musical ideas. We will no
 
 ### Tempo
 
+While the time signature in music defines the beats per measure, the tempo determines the beats per minute. In other words, the tempo indicates how much music will be played (or not played) within moments in time.
+
+Cardio workout music tends have a fast tempo, with frequent strong, loud bass beats marking the time. On the other hand, music for relaxation tends to have a slow tempo, with quiet and gentle notes heard for extended periods of time.
+
+Inspirational music may have have a fast tempo with elements found in relaxing music.
+
+[![Alliance - Pillars of Creation [Epic Inspirational Orchestral]](https://i.ytimg.com/vi/tzS2ju1wh3I/mqdefault.jpg)](https://www.youtube.com/watch?v=tzS2ju1wh3I&feature=emb_title "Alliance - Pillars of Creation [Epic Inspirational Orchestral]")
+
+Real-time events have a constant tempo. In order to gain a different perspective, we need to capture real-time events at different speeds. We will now talk about slow-motion and time-lapse video recording.
+
+Slow-motion video
+
+Slow motion ("slo-mo") video allows us to review certain events from a different time perspective. We can capture more still picture frames per second in order to observe more details about moments in time.
+
+FOr example, if you spend time in the "film room" studying replays of sporting events, you are often using slow motion to review the progression of events within specific time slices. This is a wonderful use of time as a tool.
+
+Professional athletes who spend time in the film room are better able to prepare for upcoming opponents while correcting mistakes from previous games. The film room is one of many important uses of time for improving both individual and team peformance.
+
+Slow motion is also very useful in other activities, such as crash testing automobiles.
+
+[![Red-light-running crash test demonstration](https://i.ytimg.com/vi/S3-esjKXh5g/mqdefault.jpg)](https://www.youtube.com/watch?v=S3-esjKXh5g&feature=emb_title "Red-light-running crash test demonstration")
+
+When we view slow-motion video from multiple angles simultaenously, we have bullet time.
+
+[![Neo Dodging Bullets | The Matrix](https://i.ytimg.com/vi/ODmhPsgqGgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ODmhPsgqGgQ&feature=emb_title "Neo Dodging Bullets | The Matrix")
+
+When we mix bullet time with computational photography, you can generate photogrammetry and other 3D informatics.
+
+We can view slow-motion as a high-resolution time inspection tool. Let us now look at a low-resolution time tool called time lapse.
+
+### Time-lapse video
+
+The time-lapse photography technique allows us to capture fewer details about smaller moment, while providing a better time perspective of much larger moments.
+
+We can see a valuable application of this principle in time-lapse video (or film).
+
+While slow-motion video adds more picture frames per socond, time-lapse video may only record new picture frames every minute or every hour. This is a popular film technique on construction sites over several months.
+
+[![Home Build Time-Lapse](https://i.ytimg.com/vi/Fb531GJrCQY/mqdefault.jpg)](https://www.youtube.com/watch?v=Fb531GJrCQY&feature=emb_title "Home Build Time-Lapse")
+
+Also, we can watch plants grow over several days.
+
+[![Bean Time-Lapse - 25 days | Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days | Soil cross section")
+
+In the next chapter (35.3 Clock Basics), we are going to talk about how innovation in timekeeping gives us more time to focus on other things.
+
 
 
 
