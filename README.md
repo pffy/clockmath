@@ -148,7 +148,7 @@ Music albums are comprised of individual audio tracks. Each of those tracks can 
 Instead of using seconds, we use bundles of seconds to describe the various track times.
 
 ```
-Time bundles table.
+Time bundles table goes here.
 ```
 
 ### Time Zones
