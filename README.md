@@ -505,7 +505,35 @@ In Google Sheets, you can simply calculate solar noon by using both the sunrise 
 
 > **NOTE:** Spreadsheet cell must be set to the "Time" format. Learn more
 
+### Exercise 35.6.1
 
+Find the sunrise and sunsets for the given dates and locations. Convert each clock time into scalars and add units of "minutes since midnight" for each conversion. Calcualte solar noon. Compare your solar noon computation to Wolfram Alpha. Explain why there may be a slight difference between results (HINT: accuracy vs. precision).
+
+  + London; January 1, 2022
+
+Calculating solar noon has demonstrated that the "time distance" between sunrise and sunset are directly related to the "solar position" of the Sun during daylight hours. Solar noon occurs when the Sun is at its highest point in the sky. Thus, it is precisely halfway between the sunrise and sunset events.
+
+## More Solar Midpoints
+
+Let us now take a quick look at more solar events. Two additional midpoints can be computed using sunrise time, sunset time and solar noon time. These two events are called mid-morning and mid-afternoon.
+
+Mid-morning is the midpoint between sunrise and solar noon. Using the sports analogy, mid-morning is the end of the first quarter and the beginning of the second quarter.
+
+```screenshot```
+
+Mid-afternoon is the midpoint between solar noon and sunset. In terms of quarters, this event occurs at the end of the third quarter and the start of the fourth quarter.
+
+```screenshot```
+
+Each solar event provides us a percentage of daylight hours that have elapsed. In other words, at mid-morning 25% of daylight has elapsed. Similarly, by mid-afternoon, three-quarters (75%) of daylight hours have passed. At this point, only 25% of daylight hours remain.
+
+### Exercise 35.6.2
+
+Calculate mid-morning and mid-afternoon times, based on sunset, sunrise, and solar noon times in [EXERCISE #35.6.1](#exercise-3561).
+
+In this chapter, we discussed day slices that help us practically divide and organize day length. Solar noon is the top of the Sun's arc across the sky, while mid-morning and mid-afternoon provide waypoints on the solar journey.
+
+In the next chapter (35.7 Day Parts), we will explore more subdivisions of the day and how they are used in real-world applications.
 
 
 # 35.7 Day Parts
