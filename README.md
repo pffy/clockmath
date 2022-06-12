@@ -9,7 +9,7 @@ The Clock Math Intervention Workbook is an open educational resource (OER) creat
 + [35.3 Clock Basics](#353-clock-basics)
 + [35.4 Clock Slices](#354-clock-slices)
 + [35.5 Day Basics](#355-day-basics)
-+ [35.6 Day Slices](#356-time-slices)
++ [35.6 Day Slices](#356-day-slices)
 + [35.7 Day Parts](#357-day-parts)
 + [35.8 Clock Hands Angles](#358-clock-hands-angles)
 + Tables
