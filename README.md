@@ -37,7 +37,7 @@ Also, unlike many workbooks or textbooks that try to cover many topics, this OER
 
 Good luck and have fun!
 
-## 35.1 Time Basics
+# 35.1 Time Basics
 
 Time is simply a tool. No, no, no: not a manual or power tool, like ones at Home Depot.
 
@@ -100,7 +100,7 @@ When it comes to mastering time basics, the time is now.
 
 [![John Cena - My Time Is Now](https://i.ytimg.com/vi/_JAa3NvP6f4/mqdefault.jpg)](https://www.youtube.com/watch?v=_JAa3NvP6f4 "John Cena - My Time Is Now")
 
-## 35.2 Time Slices
+# 35.2 Time Slices
 
 [![Cyndi Lauper - Time After Time (Audio)](https://i.ytimg.com/vi/F1mqrCTFoz4/mqdefault.jpg)](https://www.youtube.com/watch?v=F1mqrCTFoz4&feature=emb_title "Cyndi Lauper - Time After Time (Audio)")
 
@@ -151,7 +151,7 @@ Instead of using seconds, we use bundles of seconds to describe the various trac
 Time bundles table goes here.
 ```
 
-### Time Zones
+## Time Zones
 
 Let us now reflect on the pizza slice analogy for a moment. The pizza is a flat object, so we generally think about the slices as sections of a circle.
 
@@ -161,7 +161,7 @@ To simplify timekeeping, we have created at least 24 time zones to help us group
 
 Now, let us talk about another kind of timekeeping, which is defined by time signatures in music,
 
-### Time Signatures
+## Time Signatures
 
 Composers share musical with performers with a time tool called sheet music. The musical notes in sheet music are divided into time slices called measures. Measures provide a bookmark for quick reference, and help organize the amount of sound (or silence) within a composition.
 
@@ -203,7 +203,7 @@ Here is an example from the film Amadeus (1984), where two composers are using t
 
 As we have discussed, time signatures help us organize musical ideas. We will now explore how tempo is used to control the rate at which these ideas are played.
 
-### Tempo
+## Tempo
 
 While the time signature in music defines the beats per measure, the tempo determines the beats per minute. In other words, the tempo indicates how much music will be played (or not played) within moments in time.
 
@@ -215,7 +215,7 @@ Inspirational music may have have a fast tempo with elements found in relaxing m
 
 Real-time events have a constant tempo. In order to gain a different perspective, we need to capture real-time events at different speeds. We will now talk about slow-motion and time-lapse video recording.
 
-Slow-motion video
+## Slow-motion video
 
 Slow motion ("slo-mo") video allows us to review certain events from a different time perspective. We can capture more still picture frames per second in order to observe more details about moments in time.
 
@@ -235,7 +235,7 @@ When we mix bullet time with computational photography, you can generate photogr
 
 We can view slow-motion as a high-resolution time inspection tool. Let us now look at a low-resolution time tool called time lapse.
 
-### Time-lapse video
+## Time-lapse video
 
 The time-lapse photography technique allows us to capture fewer details about smaller moment, while providing a better time perspective of much larger moments.
 
@@ -252,12 +252,12 @@ Also, we can watch plants grow over several days.
 In the next section, we discuss how innovation in timekeeping gives us more time to focus on other things.
 
 
-## 35.3 Clock Basics
+# 35.3 Clock Basics
 
 [![Hung Up](https://i.ytimg.com/vi/20OGm_-RebE/mqdefault.jpg)](https://www.youtube.com/watch?v=20OGm_-RebE "Hung Up")
 <br/>**MUSIC 🎵: Hung Up - Madonna**
 
-Clock time is a tool that helps us keep track of another tool called time (as discussed in 35.1 Time Basics). Clock time is often represented by a symbol (e.g., 6:30 AM, 13:15) that refers to an event-based time.
+Clock time is a tool that helps us keep track of another tool called time (as discussed in earlier in [35.1 Time Basics]($351-time-basics)). Clock time is often represented by a symbol (e.g., 6:30 AM, 13:15) that refers to an event-based time.
 
 If we simply look at clock time as "something" we should know, then we may not completely understand what the symbols represent.
 
@@ -265,7 +265,7 @@ Instead, we will look more closely and carefully at clock time as a symbol and r
 
 When we learn to count to ten, we are using a base 10 numerals. Larger numbers are grouped in bundles of 10 whenever possible.
 
-Clock time introduces us to base 60 (or sexagesimal) counting. We bundle 60 seconds in a minute; we also group 60 minutes in an hour.
+Clock time introduces us to base 60 (or [sexagesimal](https://en.wikipedia.org/wiki/Sexagesimal)) counting. We bundle 60 seconds in a minute; we also group 60 minutes in an hour.
 
 In other words, we count from 0 to 59 seconds, and add a minute to our overall total. Also, when reach 60 minutes, another hour has elapsed.
 
@@ -276,13 +276,95 @@ A complete 60-minute trip around the clock face is 360 degrees. That fact helps 
 Our minds are set on the percentage of those 60 minutes that have elapsed within the hour, Percentage represent a fraction of 100, but each minute (of the hour) is a fraction of 60.
 
 [![George Harrison - Got My Mind Set On You (Version II)](https://i.ytimg.com/vi/_71w4UA2Oxo/mqdefault.jpg)](https://www.youtube.com/watch?v=_71w4UA2Oxo "George Harrison - Got My Mind Set On You (Version II)")
-<br/>`(Ctrl + Click)` **MUSIC 🎵: Got my mind set on you - George Harrison**
+<br/>**MUSIC 🎵: Got my mind set on you - George Harrison**
 
+If we look at clock time as a symbol that describes two quantities, we can see a mixed number.
 
+For example, let us look at the clock time 6:30 AM.
 
-## 35.4 Clock Slices
-## 35.5 Day Basics
-## 35.6 Day Slices
-## 35.7 Day Parts
-## 35.8 Clock Hands Angles
+In this case, the colon separates the mixed number into two parts.
+
+The left side of the clock time is the whole number part that represents the current hour. We are in the six o'clock hour, which is more than 6 hours after midnight.
+
+The right side of the clock time is the fractional part that indicates the number of minutes that have elapsed since the top of the hour. Within the six o'clock hour, 30 minutes have passed and 30 minutes remain.
+
+The fraction of the hour can be written as 30/60 hours (or 0.5 hours).
+
+Mixed numbers are usually written as whole numbers in large text with fractions in smaller text. This is simply notation to help us better understand the quantity. Clock time uses the same concept of mixed numbers, but uses a different notation.
+
+Clock time is a mixed number that contains information about whole hours and fractions of hours.
+
+Because clock time (as a mixed number) is common in clock math, this workbook has a table that helps us make calculations with fractions of 60 ([Table B: Fractions of 60](/TABLE-B.md)).
+
+> **USING ALEXA:** When you use the voice command "time" with the Amazon Alexa voice assistant or smart speaker, the application programming interface (API) assumes you mean "clock time" as input.
+
+The API requires you to ask a specific question related to time. For example, you can ask "how many minutes since midnight?" or "how many seconds since midnight?" for a non-clock answer.
+
+In each case, the previous midnight of the current day is the fixed point of reference used to provide you an answer. You can also ask these questions to Wolfram Alpha:
+
+  + [how many seconds since midnight?](https://www.wolframalpha.com/input?i=how+many+seconds+since+midnight%3F)
+  + [how many minutes since midnight?](https://www.wolframalpha.com/input?i=how+many+minutes+since+midnight%3F)
+
+## Clock Talk
+
+Now, let's talk about clocks -- well, clock devices.
+
+Some clocks tick to mark the passing of a second; some do not. For decades, clocks have captured the imagination of artists and musicians.
+
+[![Leroy Anderson - The Syncopated Clock](https://i.ytimg.com/vi/CrpdQngwk2g/mqdefault.jpg)](https://www.youtube.com/watch?v=CrpdQngwk2g "Leroy Anderson - The Syncopated Clock")
+
+[![J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)](https://i.ytimg.com/vi/W9Qtu15FLTM/mqdefault.jpg)](https://www.youtube.com/watch?v=W9Qtu15FLTM "J. Haydn - Hob I:101 - Symphony No. 101 in D major "The clock" (Brüggen)")
+
+[![Hans Zimmer - Mountains (Interstellar Soundtrack)](https://i.ytimg.com/vi/o_Ay_iDRAbc/mqdefault.jpg)](https://www.youtube.com/watch?v=o_Ay_iDRAbc "Hans Zimmer - Mountains (Interstellar Soundtrack)")
+
+The local event that is the basis for clock time occurs when the Earth completes a single rotation about its axis and automatically begins another one. Every midnight represents a clock time boundary that separates the previous day from the next day.
+
+As mentioned earlier (35.1 Time Basics), we say "6:30 AM" instead of saying "6 hours and 30 minutes since midnight" because it easier to understand.
+
+The 12-hour clock format requires the use of AM or PM to signify the time of day -- whether the time is before or after noon (12:00 PM).
+
+Another clock format called 24-hour time allows to express the number of hours and minutes since midnight without the AM/PM suffix.
+
+For example, when we say the time is "13:15", we are saying that it is "13 hours and 15 minutes since midnight" which permits us to omit AM/PM from the clock time.
+
+> **NOTE:** Another term for 24-hour time is military time.
+
+Timekeeping and horology have been studied for many centuries. Before clocks, sundials and star charts were used to keep track of time.
+
+The invention of clocks helped keep local time, but not always accurately. For example, clock time could vary between two towns or two houses.
+
+Each analog clock had a different clock time, internal mechanism, and maintenance schedule.
+
+Many towns simply had a single town clock or church bells to help everyone nearby keep time.
+
+[![Inside Bern, Switzerland's Clock Tower](https://i.ytimg.com/vi/WmX3xE_Pick/mqdefault.jpg)](https://www.youtube.com/watch?v=WmX3xE_Pick "Inside Bern, Switzerland's Clock Tower")
+
+In order to "perform work" on clock math problems, we must learn how to convert between clock times and the number of hours, minutes, and seconds since midnight.
+
+[![Amilcare Ponchielli - Dance of the Hours](https://i.ytimg.com/vi/W3ILbnHhAzk/mqdefault.jpg)](https://www.youtube.com/watch?v=W3ILbnHhAzk "Amilcare Ponchielli - Dance of the Hours")
+
+The skills related to clock time conversion wil make solving clock math problems more simple and organized.
+
+### Exercise 35.3.1
+
+Convert the following clock time symbols to:
+  - number of minutes since midnight,
+  - number of seconds since midnight,
+  - percent of day elapsed
+
+```
+6:30 AM
+13:15
+9:25 PM
+12:00 PM
+20:45
+9:00 AM
+17:00
+```
+
+# 35.4 Clock Slices
+# 35.5 Day Basics
+# 35.6 Day Slices
+# 35.7 Day Parts
+# 35.8 Clock Hands Angles
 
