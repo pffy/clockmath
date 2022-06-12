@@ -227,7 +227,7 @@ Cardio workout music tends have a fast tempo, with frequent strong, loud bass be
 Inspirational music may have have a fast tempo with elements found in relaxing music.
 
 [![Alliance - Pillars of Creation Epic Inspirational Orchestral](https://i.ytimg.com/vi/tzS2ju1wh3I/mqdefault.jpg)](https://www.youtube.com/watch?v=tzS2ju1wh3I&feature=emb_title "Alliance - Pillars of Creation Epic Inspirational Orchestral")
-<br/>MUSIC 🎵: Pillars of creation - Alliance
+<br/>**MUSIC 🎵: Pillars of creation - Alliance**
 
 Real-time events have a constant tempo. In order to gain a different perspective, we need to capture real-time events at different speeds. We will now talk about slow-motion and time-lapse video recording.
 
@@ -775,10 +775,6 @@ Find all the clock times where the hour hand and minute hand are [collinear](htt
 
 ### EXERCISE 35.8.3
 
+> **NOTE:** This is an exercise and a design problem.
+
 Find all the clock times where the hour hand and minute hand are collinear and **point in opposite directions.**
-
-
-
-
-
-
