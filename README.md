@@ -1,4 +1,4 @@
-> # development in progress, please pardon our dust 🚧🚧
+> # 🚧🚧 migration to GitHub in progress
 
 The Clock Math Intervention Workbook is an open educational resource (OER) created as part of a **small group college math intervention.** This OER has been designed to help improve self-efficacy for college students solving clock math arithemtic and ***elapsed time word problems in developmental math settings.***
 
