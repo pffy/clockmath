@@ -72,7 +72,7 @@ However, in our math calculations, it is very important for us to include explan
 After midnight, another day begins.
 
 [![After Midnight](https://i.ytimg.com/vi/UkWccgl-9vs/mqdefault.jpg)](https://www.youtube.com/watch?v=UkWccgl-9vs "After Midnight")
-<br/>MUSIC 🎵: After midnight - Eric Clapton
+<br/>**MUSIC 🎵: After midnight - Eric Clapton**
 
 For intraday clock math problems, we will usually have between 0 and 24 hours (or 1440 minutes) since midnight.
 
