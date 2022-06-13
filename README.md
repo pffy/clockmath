@@ -556,7 +556,8 @@ In Google Sheets, you can simply calculate solar noon by using both the sunrise 
 
 Find the sunrise and sunsets for the given dates and locations. Convert each clock time into scalars and add units of "minutes since midnight" for each conversion. Calcualte solar noon. Compare your solar noon computation to Wolfram Alpha. Explain why there may be a slight difference between results (HINT: accuracy vs. precision).
 
-  + London; January 1, 2022
+  + London, January 1, 2022
+  + Boston, July 4, 1809 
 
 Calculating solar noon has demonstrated that the "time distance" between sunrise and sunset are directly related to the "solar position" of the Sun during daylight hours. Solar noon occurs when the Sun is at its highest point in the sky. Thus, it is precisely halfway between the sunrise and sunset events.
 
@@ -566,11 +567,11 @@ Let us now take a quick look at more solar events. Two additional midpoints can 
 
 Mid-morning is the midpoint between sunrise and solar noon. Using the sports analogy, mid-morning is the end of the first quarter and the beginning of the second quarter.
 
-`screenshot`
+![fig-midmorning](/figs/fig-midmorning.png)
 
 Mid-afternoon is the midpoint between solar noon and sunset. In terms of quarters, this event occurs at the end of the third quarter and the start of the fourth quarter.
 
-`screenshot`
+![fig-midafternoon](/figs/fig-midafternoon.png)
 
 Each solar event provides us a percentage of daylight hours that have elapsed. In other words, at mid-morning 25% of daylight has elapsed. Similarly, by mid-afternoon, three-quarters (75%) of daylight hours have passed. At this point, only 25% of daylight hours remain.
 
@@ -650,7 +651,7 @@ In an earlier chapter (35.4 Clock Slices), we discussed the event called solar n
 
 We can make similar calculations when the Sun is on the other side of the planet. The clock slice between dusk and dawn is called night. The midpoint between dusk and dawn is called **solar midnight.**
 
-![fig-midnight](/figs/fig-solarmidnight.png)
+![fig-solarmidnight](/figs/fig-solarmidnight.png)
 
 Like solar noon, solar midnight is different from traditional midnight because it can vary each 24-hour period.
 
