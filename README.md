@@ -488,7 +488,7 @@ Sunset occurs when the Sun moves below the horizon. Daylight hours are often men
 
 The measurement "Length of Day" is listed in the Astronomy section of this weather report on Weather Underground:
 
-```screenshot here```
+![length of day in Astronomy section in Weather Underground](https://github.com/pffy/clockmath/raw/gh-pages/figs/fig-lengthofday.png)
 
 Earth rotates about a tilted axis. This affects the amount of day length during the year. In the Northern Hemisphere, there is more daylight in the June. On the other hand, in the Southern Hemisphere have the most daylight in December.
 
