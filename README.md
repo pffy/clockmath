@@ -413,9 +413,9 @@ Convert the following clock time symbols to:
 
 Clock slices describe sections of clock time (35.3 Clock Basics).
 
-On a circular clock face, clock slices may resemble circular sectors (see Circular Sectors on Wolfram MathWorld).
+On a circular clock face, clock slices may resemble circular sectors (see [Circular Sectors on Wolfram MathWorld](https://mathworld.wolfram.com/CircularSector.html)).
 
-Sectors are shaped like pie slices. In fact, we can use pie charts to diagram clock slices. The angular position of the hands on a clock also provide pie-like sectors (discussed later in 35.8 Clock Hands Angles).
+Sectors are shaped like pie slices. In fact, we can use pie charts to diagram clock slices. The angular position of the hands on a clock also provide pie-like sectors (discussed later in [35.8 Clock Hands Angles](#358-clock-hands-angles)).
 
 On a timeline (a special number line that represents time), we can depict clock slices as linear segments.
 
@@ -529,18 +529,19 @@ The subdivisions of daylight hours are not unlike the quarters or periods in spo
 
 In a similar way, daylight hours can be divided into halves and quarters in order to improve time management. While there may be timeouts or commercial breaks in sporting events, solar events are continuous and uninterrupted.
 
-Noon and Solar Noon
+## Noon and Solar Noon
+
 Let us first look at both noon and solar noon.
 
 Noon (12:00 PM) describes the division of a 24-hour day between AM (antemeridiem or "before midday") hours and PM (postmeridiem or "after midday") hours.
 
 We use AM and PM to clarify whether times are in the morning or in the afternoon or evening. Noon always occurs at the midpoint between each midnight.
 
-```diagram here```
+![noon](/figs/noon.png "noon")
 
 In contrast to (traditional) noon, solar noon is defined as the highest point of the Sun during the day, which can vary by the sunrise and sunset times. Solar noon is always the midpoint between sunrise and sunset.
 
-```diagram here```
+![solar noon](/figs/solarnoon.png "solar noon")
 
 ### Using Google Sheets
 
