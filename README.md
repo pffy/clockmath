@@ -120,6 +120,9 @@ Time is a tool that helps us understand past moments while allowing us to make r
 
 It is true that we can reminisce about past moments. We can also celebrate the arrival of a current moment. We have anticipated a specific moment for a certain amount of time (a time slice). We experience this anticipation every New Year's Eve, as we countdown the moments until New Year's Day.
 
+[![At Last](https://i.ytimg.com/vi/1qJU8G7gR_g/mqdefault.jpg)](https://www.youtube.com/watch?v=1qJU8G7gR_g "At Last")
+<br/>**MUSIC 🎵: At last - Etta James**
+
 In this section, we will discuss how time slices (groups of time) can be even more useful when measured and compared.
 
 Let us practice identifying and describing time slices. Time slices in nature can be based on seasonal events (e.g., Spring, Summer, Autumn, and Winter).
@@ -135,9 +138,9 @@ To help us manage modern time, we have grouped 7 days into a week and at least 2
 
 We use this understanding to plan for the future. For example, if something is scheduled to happen in 15 months, we automatically understand that the event will happen in the following year.
 
-Using another example, in the tech industry, the second Tuesday of every month is called Patch Tuesday. The predictability of this day allows companies to plan for computer hardware and software maintenance.
+Using another example, in the tech industry, the second Tuesday of every month is called **[Patch Tuesday](https://www.techrepublic.com/article/insiders-guide-to-managing-microsoft-patch-tuesday/)**. The predictability of this day allows companies to plan for computer hardware and software maintenance.
 
-> **NOTE:** The SI units for time are seconds. [Learn more](https://www.google.com/url?q=https%3A%2F%2Fphysics.nist.gov%2Fcuu%2FUnits%2Fcurrent.html&sa=D&sntz=1&usg=AOvVaw22r4DLDWXVelEe3Dh2vd6n)
+> **NOTE:** The SI units for time are seconds. [Learn more](https://physics.nist.gov/cuu/Units/current.html)
 
 The numerical measurement of time between two moments can be called duration. **Duration** is a length of time. In other words, duration is a slice of time that describes the distance between two moments.
 
