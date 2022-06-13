@@ -10,5 +10,5 @@ Movie | Year | Notes
 ## TV Playlist
 Show | Season | Episode | Notes
 :--- | :---: | :---: | :---
-_ | _ | _ | _
+📺 | 📺 | 📺 | 📺
 
