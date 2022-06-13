@@ -1,7 +1,7 @@
 # Table B
 
 
-## Fractions of 60
+### Fractions of 60
 
 Number | Part | Decimal
 :---: | :---: | :---:
