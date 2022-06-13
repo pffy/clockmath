@@ -18,6 +18,8 @@ The Clock Math Intervention Workbook is an open educational resource (OER) creat
   + [Table A: Time Since Midnight](/TABLE-A.md)
   + [Table B: Fractions of 60](/TABLE-B.md)
   + [Table C: Music Playlist](/TABLE-C.md)
+  + [Table D: TV-Movie Playlist](/TABLE-D.md)
+  + [Table E: Docs and Spreadsheets](/TABLE-E.md)
 
 ## Overview
 
