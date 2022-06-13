@@ -505,7 +505,7 @@ You can specify both the date and location for sunrise and sunset times in your 
 
 Let us complete some exercises for practice.
 
-### Exercise 35.5.1
+### EXERCISE 35.5.1
 
 Find the sunrise times, sunset times, and day lengths for different locations around the world for the following dates:
 
@@ -515,7 +515,7 @@ Find the sunrise times, sunset times, and day lengths for different locations ar
 + October 31
 + December 25
 
-### Exercise 35.5.2
+### EXERCISE 35.5.2
 
 Convert the sunrise and sunset clock times in [EXERCISE 35.5.1](#exercise-3551) to scalars. Add units of "minutes since midnight" for each conversion. Calculate the day length for each location using units of "minutes of daylight" for the day length time slice.
 
@@ -555,7 +555,7 @@ In Google Sheets, you can simply calculate solar noon by using both the sunrise 
 
 > **NOTE:** Spreadsheet cell must be set to the "Time" format.
 
-### Exercise 35.6.1
+### EXERCISE 35.6.1
 
 Find the sunrise and sunsets for the given dates and locations. Convert each clock time into scalars and add units of "minutes since midnight" for each conversion. Calcualte solar noon. Compare your solar noon computation to Wolfram Alpha. Explain why there may be a slight difference between results (HINT: accuracy vs. precision).
 
@@ -602,9 +602,9 @@ Mid-afternoon is the midpoint between solar noon and sunset. In terms of quarter
 
 Each solar event provides us a percentage of daylight hours that have elapsed. In other words, at mid-morning 25% of daylight has elapsed. Similarly, by mid-afternoon, three-quarters (75%) of daylight hours have passed. At this point, only 25% of daylight hours remain.
 
-### Exercise 35.6.2
+### EXERCISE 35.6.2
 
-Calculate mid-morning and mid-afternoon times, based on sunset, sunrise, and solar noon times in [EXERCISE #35.6.1](#exercise-3561).
+Calculate mid-morning and mid-afternoon times, based on sunset, sunrise, and solar noon times in [EXERCISE 35.6.1](#exercise-3561).
 
 ### EXERCISE 35.6.2 EXEMPLAR
 
@@ -867,11 +867,7 @@ Combining these related movements, we created a new equation as a tool for solvi
 
 We can use this time-angle equation to find the next clock time when the hour hand and minute hand form the same clock hands angle.
 
-
-
 ---
-
-## EXERCICES
 
 ### EXERCISE 35.8.1
 
