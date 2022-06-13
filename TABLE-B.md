@@ -1,6 +1,9 @@
-# Table B: Fractions of 60
+# Table B
 
-number | part | decimal
+
+## Fractions of 60
+
+Number | Part | Decimal
 :---: | :---: | :---:
 1 | 1 / 60 | 0.0167
 2 | 2 / 60 | 0.0333
