@@ -447,7 +447,7 @@ Clock slices can represent the duration between clock times. In the previous cha
 
 If we have two clock times, we can calculate the duration of the clock slice on the timeline. For example, we can create a clock slice between 5:00 AM and 7:00 PM. The size of the slice is 14 hours.
 
-![clock slice from 5 am to 7 pm](https://github.com/pffy/clockmath/raw/gh-pages/figs/fig-clockslice.png)
+![clock slice from 5 am to 7 pm](/figs/fig-clockslice.png)
 
 We can use the calculation of clock slice duration for many other tasks, such as computing the amount of daylight, between sunrise and sunset (35.5 Day Basics). We will go into more detail about that in the next chapter. For now, let us look at more examples of clock slices.
 
@@ -488,13 +488,13 @@ Sunset occurs when the Sun moves below the horizon. Daylight hours are often men
 
 The measurement "Length of Day" is listed in the Astronomy section of this weather report on Weather Underground:
 
-![length of day in Astronomy section in Weather Underground](https://github.com/pffy/clockmath/raw/gh-pages/figs/fig-lengthofday.png)
+![length of day in Astronomy section in Weather Underground](/figs/fig-lengthofday.png)
 
 Earth rotates about a tilted axis. This affects the amount of day length during the year. In the Northern Hemisphere, there is more daylight in the June. On the other hand, in the Southern Hemisphere have the most daylight in December.
 
 Therefore, the sunrise and sunset times are affected by both date and location.
 
-### Using Wolfram Alpha
+### Day Length on Wolfram Alpha
 
 You can specify both the date and location for sunrise and sunset times in your query:
   + [sunrise london may 1](https://www.wolframalpha.com/input?i=sunrise+london+may+1)
