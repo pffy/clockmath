@@ -937,4 +937,13 @@ In clock math workbook, we are not simply plugging and chugging formulas, we are
 
 In the case of this chapter, we are generating tools (equations) that can be used in quality control of designing hardware or software clocks.
 
-This exemplar was meant to feel less like an exercise and more like a design problem with many possible solutions.
+This exemplar was meant to feel less like an exercise and more like a design problem with many possible solutions. 
+
+Time is a tool we use to work with continuous and recurring events. The boundary conditions in this and all other exercises were chosen for convenience. With each new challenge, we make small changes to the conditions or working equations to help us find answers and get work done.
+
+The Pffy Authors &copy; 2017-2022
+
+---
+
+This content is available under the CC 4.0 BY SA license.
+<br/>Learn more: https://creativecommons.org/licenses/by-sa/4.0/
