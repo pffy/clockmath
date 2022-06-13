@@ -1,5 +1,7 @@
 > # 🚧🚧 ***migration to GitHub in progress***
 
+***Updated June 13, 2022***
+
 The Clock Math Intervention Workbook is an open educational resource (OER) created as part of a **small group college math intervention.** This OER has been designed to help improve self-efficacy for college students solving clock math arithemtic and ***elapsed time word problems in developmental math settings.***
 
 
@@ -782,6 +784,10 @@ Combining these related movements, we created a new equation as a tool for solvi
 
 We can use this time-angle equation to find the next clock time when the hour hand and minute hand form the same clock hands angle.
 
+---
+
+## EXERCICES
+
 ### EXERCISE 35.8.1
 
   a. Find the clock hands angle between the hour hand and minute hand, and
@@ -843,12 +849,92 @@ We can visually compare both clock times directly in the following figure:
 
 ![comparing two clock times](/figs/fig-clockduo.png "comparing angles of 6:30 AM and 7:35:27 AM")
 
+---
+
 ### EXERCISE 35.8.2
 
 Find all the clock times where the hour hand and minute hand are [collinear](https://mathworld.wolfram.com/Collinear.html) and point in the same direction.
+
+### EXERCISE 35.8.2 EXEMPLAR
+
+When the hour hand and the minute hand are pointed in the same direction, the clock hands angle is zero (*A = 0*). For example, on a clock face, the clock hands angle is zero for both midnight and noon.
+
+```
+A = 0
+
+[[minutes]]
+A = 30 * h - 5.5 * m
+0 = 30 * h - 5.5 * m
+30 * h = 5.5 * m
+m = 30 * h / 5.5
+```
+
+This provides us an equation for all hours around the clock.
+
+For the 1:00 AM hour:
+
+```
+h = 1
+m = (30 * 1 ) / 5.5
+m = 5.4545
+```
+
+From [Table B](/TABLE-B#table-b), we find that 5 minutes and 27 seconds after 1:00 AM, the hour hand and the minute hand are collinear and face the same direction.
+
+We check our possible solution of [1:05:27 AM](https://www.wolframalpha.com/input?i=1%3A05%3A27+AM) with Wolfram Alpha.
+
+![clock-0105](/figs/fig-clock0105.png "27 seconds after 1:05 AM")
+
+---
 
 ### EXERCISE 35.8.3
 
 > **NOTE:** This is an exercise and a design problem.
 
 Find all the clock times where the hour hand and minute hand are collinear and **point in opposite directions.**
+
+### EXERCISE 35.8.3 EXEMPLAR
+
+When the hour hand and the minute hand are pointed in opposite directions, the clock hands angle is 180 degrees (*A = 180*). For example, on a clock face, the clock hands angle is 180 for both 6:00 AM and 6:00 PM.
+
+```
+A = 180
+
+[[minutes]]
+A = 30 * h - 5.5 * m
+180 = 30 * h - 5.5 * m
+5.5 * m = 30 * h - 180
+m = (30 * h - 180) / 5.5
+```
+
+This provides us an equation for all hours around the clock.
+
+For the 1:00 AM hour:
+
+```
+h = 1
+m = (30 * 1 - 180) / 5.5
+m = -27.27
+```
+
+The answer is a negative number. Is it wrong?
+
+No. A timeline is a special number line.
+
+In abstraction, our fixed point of reference is 1:00 AM, and our time slice ends before that point (in the negative direction) on the number line.
+
+We proceed.
+
+From [Table B](/TABLE-B#table-b), we find that 27 minutes and 16 seconds before 1:00 AM, the hour hand and the minute hand are collinear and face in opposite directions.
+
+We check our possible solution of [27.27 minutes *before* 1:00 AM](https://www.wolframalpha.com/input?i=27.27+minutes+before+1%3A00+AM) with Wolfram Alpha.
+
+We find this time to be [12:32:43 AM](https://www.wolframalpha.com/input?i=12%3A32%3A43+AM) and the computer-generated clock image confirms this.
+
+![12:32 AM](/figs/fig-clock1232.png "27 minutes, 16 seconds BEFORE 1:00 AM = 12:32:43 AM")
+
+In clock math workbook, we are not simply plugging and chugging formulas, we are using computational thinking to create working equations to organize real-world solutions.
+
+In the case of this chapter, we are generating tools (equations) that can be used in quality control of designing hardware or software clocks.
+
+This exemplar was meant to feel less like an exercise and more like a design problem with many possible solutions.
