@@ -552,7 +552,7 @@ In Google Sheets, you can simply calculate solar noon by using both the sunrise 
 ```visualbasic
 =AVERAGE("5:46AM", "7:14PM")
 ```
-[Copy this Google spreadsheet](https://docs.google.com/spreadsheets/d/1n8FZ0JLPlN_wAtZuTrGcV74z_YES7nkfFnj3dKJyzck/copy) to get started. Change the sunrise and sunset times to calculate new solar noons.
+[**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1n8FZ0JLPlN_wAtZuTrGcV74z_YES7nkfFnj3dKJyzck/copy) to get started. Change the sunrise and sunset times to calculate new solar noons.
 
 > **NOTE:** Spreadsheet cell must be set to the "Time" format.
 
