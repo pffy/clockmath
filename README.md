@@ -650,7 +650,7 @@ If you work from dusk until dawn, then you probably are interested about the mid
 
 ## Solar Midnight
 
-In an earlier chapter (35.4 Clock Slices), we discussed the event called solar noon. As opposed to (traditional) noon, solar noon varies each day and is the midpoint between sunrise and sunset.
+In an earlier section ([35.4 Clock Slices](#354-clock-slices)), we discussed the event called solar noon. As opposed to (traditional) noon, solar noon varies each day and is the midpoint between sunrise and sunset.
 
 We can make similar calculations when the Sun is on the other side of the planet. The clock slice between dusk and dawn is called night. The midpoint between dusk and dawn is called **solar midnight.**
 
@@ -666,7 +666,7 @@ Midnight is a fixed point of reference used to divide moments into measurable da
 
 Instead of using each (12:00 AM) midnight to create a (24-hour) day slice, we can use each (12:00 PM) noon to create a night slice.
 
-**NOTE:** There are still 24-hours in this time slice. The only difference is the fixed point of reference we have chosen.
+> **NOTE:** There are still 24-hours in this time slice. The only difference is the fixed point of reference we have chosen.
 
 In this case of moving the "24-hour slice" from midnight to noon, we must use units called "minutes since noon" rather than "minutes since midnight" to clarify the amount of time elapsed from the specified point of reference.
 
@@ -674,15 +674,38 @@ We are simply taking another slice of the number line (timeline) from a differen
 
 Let us suppose that dusk is at 6:03 PM, followed by dawn on the next day at 6:20 AM. We would calculate the total clock slice between the two times by converting to units of "minutes since noon", while being careful how we use 24-hour time with the new clock slice.
 
+At dusk, a little over 6 hours after 12 PM noon:
 ```
-example problem here
+= 6 * 60 + 3
+= 363 minutes since noon
 ```
+
+At dawn, the following morning more than 18 hours after 12 PM noon:
+```
+= 18 * 60 + 20
+= 1100 minutes since noon
+```
+
+Solar midnight is the midpoint between dusk and dawn:
+```
+= ( 1100 + 363 ) / 2
+= 731.5 minutes since noon
+```
+
+We convert to hours, and use [Table B](/TABLE-B#table-b):
+```
+= 731.5 / 60 
+= 12.19 hours since noon
+= 12:11 AM
+```
+
 
 ### Transportation Time Tables
 
 Notice how (12:00 AM) midnight is simply an arbitrary starting point for each day. In planning transportation timetables, a more adaptive use of clock time is often required.
 
 For example, it is possible that a subway train schedule in a timetable starts everyday at 4:00 AM, which creates a more useful fixed point of reference for a 24-hour day slice. This type of computational thinking is very important in software engineering design and systems architecture.
+
 
 
 # 35.8 Clock Hands Angles
@@ -783,6 +806,8 @@ Let us pause to reflect. Prior knowledge of clock time helped us formulate usefu
 Combining these related movements, we created a new equation as a tool for solving a specific problem at minimal cost in time and effort.
 
 We can use this time-angle equation to find the next clock time when the hour hand and minute hand form the same clock hands angle.
+
+
 
 ---
 
@@ -946,5 +971,4 @@ Time is a tool we use to work with continuous and recurring events. The boundary
 ---
 The Pffy Authors &copy; 2017-2022
 
-This content is available under the CC 4.0 BY SA license.
-<br/>Learn more: https://creativecommons.org/licenses/by-sa/4.0/
+This content is available under the [CC 4.0 BY SA license](https://creativecommons.org/licenses/by-sa/4.0/).
