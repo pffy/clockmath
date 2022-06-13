@@ -537,21 +537,21 @@ Noon (12:00 PM) describes the division of a 24-hour day between AM (antemeridiem
 
 We use AM and PM to clarify whether times are in the morning or in the afternoon or evening. Noon always occurs at the midpoint between each midnight.
 
-![noon](/figs/noon.png "noon")
+![noon](/figs/fig-noon.png "noon")
 
 In contrast to (traditional) noon, solar noon is defined as the highest point of the Sun during the day, which can vary by the sunrise and sunset times. Solar noon is always the midpoint between sunrise and sunset.
 
-![solar noon](/figs/solarnoon.png "solar noon")
+![solar noon](/figs/fig-solarnoon.png "solar noon")
 
 ### Using Google Sheets
 
-In Google Sheets, you can simply calculate solar noon by using both the sunrise and sunset times in the `=AVERAGE()` spreadsheet formula. [Learn more](https://support.google.com/docs/answer/3093615****) about the AVERAGE formula.
+In Google Sheets, you can simply calculate solar noon by using both the sunrise and sunset times in the `=AVERAGE()` spreadsheet formula. Learn more about the [AVERAGE formula](https://support.google.com/docs/answer/3093615).
 
 ```visualbasic
 =AVERAGE("5:46AM", "7:14PM")
 ```
 
-> **NOTE:** Spreadsheet cell must be set to the "Time" format. Learn more
+> **NOTE:** Spreadsheet cell must be set to the "Time" format.
 
 ### Exercise 35.6.1
 
