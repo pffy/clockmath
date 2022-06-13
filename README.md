@@ -194,9 +194,9 @@ Now, let us talk about another kind of timekeeping, which is defined by time sig
 
 ## Time Signatures
 
-Composers share musical with performers with a time tool called sheet music. The musical notes in sheet music are divided into time slices called measures. Measures provide a bookmark for quick reference, and help organize the amount of sound (or silence) within a composition.
+Composers share musical ideas with performers using a time recording tool called sheet music. The musical notes in sheet music are divided into written time slices called measures. Each measure provides a bookmark for quick reference, and helps organize the amount of sound (or silence) throughout a composition.
 
-The tempo and structure of the musical composition is mainly determined by time signature. Time signatures indicate the number of beats per measure, as well as the notation basis for each beat. For example, a 2/4 time signature indicates that there two beats measure and the quarter note is the basis for each beat.
+The tempo and structure of the musical composition is mainly determined by time signature. Time signatures indicate the number of beats per measure, as well as the notation basis for each beat. For example, a 2/4 time signature in a musical work (often simply communicated as "music in 2/4 time") indicates that there two beats measure and the quarter note is the basis for each beat.
 
 Singers and instrumentalists look at the time signature of the music composition to better understand the pace or style of the musical work.
 
