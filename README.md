@@ -545,15 +545,17 @@ In contrast to (traditional) noon, solar noon is defined as the highest point of
 
 ![solar noon](/figs/fig-solarnoon.png "solar noon")
 
-### Calculating midpoints in time using Google Sheets
+### Calculating solar midpoints in Google Sheets
 
 In Google Sheets, you can simply calculate solar noon by using both the sunrise and sunset times in the `=AVERAGE()` spreadsheet formula. Learn more about the [AVERAGE formula](https://support.google.com/docs/answer/3093615).
 
 ```visualbasic
 =AVERAGE("5:46AM", "7:14PM")
 ```
+[Copy this spreadsheet](https://docs.google.com/spreadsheets/d/1n8FZ0JLPlN_wAtZuTrGcV74z_YES7nkfFnj3dKJyzck/copy) to get started. Change the sunrise and sunset times to calculate new solar noons.
 
 > **NOTE:** Spreadsheet cell must be set to the "Time" format.
+
 
 ### EXERCISE 35.6.1
 
