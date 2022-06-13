@@ -650,7 +650,7 @@ In an earlier chapter (35.4 Clock Slices), we discussed the event called solar n
 
 We can make similar calculations when the Sun is on the other side of the planet. The clock slice between dusk and dawn is called night. The midpoint between dusk and dawn is called **solar midnight.**
 
-`screenshot`
+![fig-midnight](/figs/fig-solarmidnight.png)
 
 Like solar noon, solar midnight is different from traditional midnight because it can vary each 24-hour period.
 
@@ -658,7 +658,7 @@ Let us recall that clock time is a tool used to help us organize and manage mome
 
 Midnight is a fixed point of reference used to divide moments into measurable days. In order to calculate solar midnight, we can change the fixed point of reference from midnight to noon.
 
-`screenshot`
+![fig-midnight](/figs/fig-midnight.png)
 
 Instead of using each (12:00 AM) midnight to create a (24-hour) day slice, we can use each (12:00 PM) noon to create a night slice.
 
