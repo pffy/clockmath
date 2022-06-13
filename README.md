@@ -256,14 +256,14 @@ Real-time events have a constant tempo. In order to gain a different perspective
 
 Slow motion ("slo-mo") video allows us to review certain events from a different time perspective. We can capture more still picture frames per second in order to observe more details about moments in time.
 
-FOr example, if you spend time in the "film room" studying replays of sporting events, you are often using slow motion to review the progression of events within specific time slices. This is a wonderful use of time as a tool.
+For example, if you spend time in the "film room" studying replays of sporting events, you are often using slow motion to review the progression of events within specific time slices. This is a wonderful use of time as a tool.
 
 Professional athletes who spend time in the film room are better able to prepare for upcoming opponents while correcting mistakes from previous games. The film room is one of many important uses of time for improving both individual and team peformance.
 
 Slow motion is also very useful in other activities, such as crash testing automobiles.
 
 [![Red-light-running crash test demonstration](https://i.ytimg.com/vi/S3-esjKXh5g/mqdefault.jpg)](https://www.youtube.com/watch?v=S3-esjKXh5g&feature=emb_title "Red-light-running crash test demonstration")
-<br/>**VIDEO 🎥 crash dummy test**
+<br/>**VIDEO 🎥 red-light-running crash test**
 
 When we view slow-motion video from multiple angles simultaenously, we have bullet time.
 
