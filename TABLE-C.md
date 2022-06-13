@@ -45,7 +45,7 @@ Washington Post March  |  John Philip Sousa
 Turn it on again  |  Genesis
 Monday, Monday  |  The Mamas and the Papas
 Manic Monday  |  The Bangles
-Walking on Sunshine  | 
+Walking on Sunshine  | katrina and the waves
 The Night Shift  |  The Commodores
 Smooth Operator  |  Sade
 Steal My Sunshine  |  LEN
