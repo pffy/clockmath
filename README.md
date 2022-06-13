@@ -116,9 +116,22 @@ Time is used to measure the distance between moments. We use Earth's movements i
 
 Moments come and go, based on our frame of reference. Our memories are recollections of those past moments. These memories feel like they take us back in time.
 
-Time is a tool that helps us understand past moments while allowing us to make reasonable predictions for future moments.
+### Sooner or later
 
-It is true that we can reminisce about past moments. We can also celebrate the arrival of a current moment. We have anticipated a specific moment for a certain amount of time (a time slice). We experience this anticipation every New Year's Eve, as we countdown the moments until New Year's Day.
+Sooner or later, you need to make choice about what you plan to do next. Your choice may be based on past events or prior knowledge from wiser people.
+
+You still need to make choice.
+
+That choice will be made sooner (a future time with a smaller delay) or later (a future moment with a much larger time slice).
+
+[![Jimmy Cliff - Sooner Or Later](https://i.ytimg.com/vi/SH9fdTberSM/mqdefault.jpg)](https://www.youtube.com/watch?v=SH9fdTberSM "Jimmy Cliff - Sooner Or Later")
+<br/>**MUSIC 🎵: Sooner or later - Jimmy Cliff**
+
+## Anticipating time
+
+Time is a tool that helps us understand past moments while allowing us to make reasonable predictions for future moments. It is true that we may often reminisce about past moments. 
+
+We can also celebrate the arrival of a future or current moment. We have anticipated a specific moment for a certain amount of time (a time slice). We experience this feeling every New Year's Eve, as we countdown the moments until New Year's Day.
 
 [![At Last](https://i.ytimg.com/vi/1qJU8G7gR_g/mqdefault.jpg)](https://www.youtube.com/watch?v=1qJU8G7gR_g "At Last")
 <br/>**MUSIC 🎵: At last - Etta James**
@@ -156,9 +169,14 @@ Music albums are comprised of individual audio tracks. Each of those tracks can 
 
 Instead of using seconds, we use bundles of seconds to describe the various track times.
 
-```
-Time bundles table goes here.
-```
+| quantity  | = | bundle |
+| :---: | :---: | :---: |
+| 60 seconds | = | 1 minute |
+| 60 minutes | = | 1 hour |
+| 24 hours | = | 1 day |
+| 7 days | = | 1 week |
+| 52 weeks | = | 1 year |
+| 365 days | = | 1 year |
 
 ## Time Zones
 
