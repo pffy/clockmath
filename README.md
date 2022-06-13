@@ -545,7 +545,7 @@ In contrast to (traditional) noon, solar noon is defined as the highest point of
 
 ![solar noon](/figs/fig-solarnoon.png "solar noon")
 
-### Using Google Sheets
+### Calculating midpoints in time using Google Sheets
 
 In Google Sheets, you can simply calculate solar noon by using both the sunrise and sunset times in the `=AVERAGE()` spreadsheet formula. Learn more about the [AVERAGE formula](https://support.google.com/docs/answer/3093615).
 
@@ -560,7 +560,31 @@ In Google Sheets, you can simply calculate solar noon by using both the sunrise 
 Find the sunrise and sunsets for the given dates and locations. Convert each clock time into scalars and add units of "minutes since midnight" for each conversion. Calcualte solar noon. Compare your solar noon computation to Wolfram Alpha. Explain why there may be a slight difference between results (HINT: accuracy vs. precision).
 
   + London, January 1, 2022
-  + Boston, July 4, 1809 
+
+### EXERCISE 35.6.1 EXEMPLAR
+
+From our work in [EXERCISE 35.5.2](#exercise-3552), we can use the sunrise time, sunset time, and day length information.
+
+We know that solar noon is the midpoint between sunrise and sunset. Therefore, the sunrise time plus half of the day length equals the solar noon time.
+
+We calculate solar noon.
+
+```
+R = 486
+S = 962
+
+[[minutes since midnight]]
+Z = R + (S - R) / 2
+Z = R + (S - R) * 0.5
+Z = 486 + (962 - 486) * 0.5
+Z = 724
+```
+
+Solar noon is 724 minutes since midnight, which is equal to 12:04 PM.
+
+We check our answer on Wolfram Alpha:
+
+  + [solar noon january 1 2022 london](https://www.wolframalpha.com/input?i=solar+noon+january+1+2022+london)
 
 Calculating solar noon has demonstrated that the "time distance" between sunrise and sunset are directly related to the "solar position" of the Sun during daylight hours. Solar noon occurs when the Sun is at its highest point in the sky. Thus, it is precisely halfway between the sunrise and sunset events.
 
@@ -582,9 +606,45 @@ Each solar event provides us a percentage of daylight hours that have elapsed. I
 
 Calculate mid-morning and mid-afternoon times, based on sunset, sunrise, and solar noon times in [EXERCISE #35.6.1](#exercise-3561).
 
-In this chapter, we discussed day slices that help us practically divide and organize day length. Solar noon is the top of the Sun's arc across the sky, while mid-morning and mid-afternoon provide waypoints on the solar journey.
+### EXERCISE 35.6.2 EXEMPLAR
 
-In the next chapter (35.7 Day Parts), we will explore more subdivisions of the day and how they are used in real-world applications.
+We know that mid-morning is the midpoint between sunrise and solar noon. We also know what mid-afternoon is the midpoint betweeen solar noon and sunset.
+
+We calculate mid-morning.
+
+```
+R = 486
+S = 962
+Z = 724
+
+[[minutes since midnight]]
+T = R + (Z - R) / 2
+T = R + (Z - R) * 0.5
+T = 486 + (724 - 486) * 0.5
+T = 605
+```
+
+Mid-morning equals 605 minutes after midnight, which equals 10:05 AM.
+
+Now, we calculate mid-afternoon.
+
+```
+R = 486
+S = 962
+Z = 724
+
+[[minutes since midnight]]
+U = Z + (S - Z) / 2
+U = Z + (S - Z) * 0.5
+U = 724 + (962 - 724) * 0.5
+U = 843
+```
+
+Mid-afternoon equals 843 minutes after midnight, which equals 2:03 PM.
+
+In this section, we discussed day slices that help us practically divide and organize day length. Solar noon is the top of the Sun's arc across the sky, while mid-morning and mid-afternoon provide waypoints on the solar journey.
+
+In the next section, we will explore more subdivisions of the day and how they are used in real-world applications.
 
 # 35.7 Day Parts
 
