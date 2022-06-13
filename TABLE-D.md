@@ -8,7 +8,5 @@ Movie | Year | Notes
 [Back to the Future](https://www.imdb.com/title/tt0088763/) | 1985 | Time travel. 1980s style.
 
 ## TV Playlist
-Show | Season | Episode | Notes
-:--- | :---: | :---: | :---
-📺 | 📺 | 📺 | 📺
 
+📺
