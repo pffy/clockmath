@@ -1,4 +1,6 @@
-# Table A: Time Since Midnight
+# Table A
+
+## Time Since Midnight
 
 Hours | Minutes | Seconds
 :---: | :---: | :---:
