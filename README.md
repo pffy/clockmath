@@ -339,20 +339,20 @@ Mixed numbers are usually written as whole numbers in large text with fractions 
 
 Clock time is a mixed number that contains information about whole hours and fractions of hours.
 
-Because clock time (as a mixed number) is common in clock math, this workbook has a table that helps us make calculations with fractions of 60 ([Table B: Fractions of 60](/TABLE-B.md)).
+Because clock time (as a mixed number) is common in clock math, this workbook has a table that helps us make calculations with fractions of 60 ([Table B: Fractions of 60](/TABLE-B#table-b)).
 
-> **USING ALEXA:** When you use the voice command "time" with the Amazon Alexa voice assistant or smart speaker, the application programming interface (API) assumes you mean "clock time" as input.
+> **USING ALEXA:** When you use the voice command "time" with the Amazon Alexa voice assistant or smart speaker, the Alexa voice interface assumes you mean "clock time" as input.
 
-The API requires you to ask a specific question related to time. For example, you can ask "how many minutes since midnight?" or "how many seconds since midnight?" for a non-clock answer.
+Alexa requires you to ask a specific question related to time. For example, you can ask "how many minutes since midnight?" or "how many seconds since midnight?" for a non-clock answer.
 
 In each case, the previous midnight of the current day is the fixed point of reference used to provide you an answer. You can also ask these questions to Wolfram Alpha:
 
   + [how many seconds since midnight?](https://www.wolframalpha.com/input?i=how+many+seconds+since+midnight%3F)
   + [how many minutes since midnight?](https://www.wolframalpha.com/input?i=how+many+minutes+since+midnight%3F)
 
-## Clock Talk
+## Clock Devices
 
-Now, let's talk about clocks -- well, clock devices.
+Now, let's talk about devices.
 
 Some clocks tick to mark the passing of a second; some do not. For decades, clocks have captured the imagination of artists and musicians.
 
@@ -375,7 +375,7 @@ Another clock format called 24-hour time allows to express the number of hours a
 
 For example, when we say the time is "13:15", we are saying that it is "13 hours and 15 minutes since midnight" which permits us to omit AM/PM from the clock time.
 
-> **NOTE:** Another term for 24-hour time is military time.
+> **NOTE:** Another term for 24-hour time is **military time.**
 
 Timekeeping and horology have been studied for many centuries. Before clocks, sundials and star charts were used to keep track of time.
 
@@ -443,7 +443,7 @@ These "news wheel" radio stations repeat this cycle once per hour for 24 hours e
 
 Each of the clock slices can be also associated with angles around a 360-degree circle. Each hour is offset by 30 degrees; each minute or second is separated by 6 degrees.
 
-These details are very important in a later chapter (35.8 Clock Hands Angles). For now, we are focusing on the idea of the distance between two very close points on a timeline.
+These details are very important in a later chapter ([35.8 Clock Hands Angles](#358-clock-hands-angles)). For now, we are focusing on the idea of the distance between two very close points on a timeline.
 
 Clock slices can represent the duration between clock times. In the previous chapter (35.3 Clock Basics), we talked about how each clock time can be represented by the "distance" in minutes from the prior midnight.
 
@@ -451,7 +451,7 @@ If we have two clock times, we can calculate the duration of the clock slice on 
 
 ![clock slice from 5 am to 7 pm](/figs/fig-clockslice.png)
 
-We can use the calculation of clock slice duration for many other tasks, such as computing the amount of daylight, between sunrise and sunset (35.5 Day Basics). We will go into more detail about that in the next chapter. For now, let us look at more examples of clock slices.
+We can use the calculation of clock slice duration for many other tasks, such as computing the amount of daylight, between sunrise and sunset ([35.5 Day Basics](#355-day-basics)). We will go into more detail about that in the next chapter. For now, let us look at more examples of clock slices.
 
 ## Countdown clocks
 
