@@ -185,6 +185,8 @@ Duration is an important calculation for business, so most modern spreadsheets h
 
 [**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1VqHJXqH78zOxD1AmwDdRc8czpargdVxZuRtGy5PKpIo/copy) to get started. Change the start time or end time to find new durations.
 
+## Bundles of time
+
 In this math workbook, slices describe *the parts of a whole,* like the slices from a pie (or pizza). Sometimes these fractions are combined with other whole pies.
 
 Think about leftover pizza from a birthday party and how you combine the slices for storage in the freezer or donation to charities that fight hunger. As you collect mutliple leftovers from multiple boxes, you will accumulate bundles of pizza (whole pizzas) that can be eaten later.
