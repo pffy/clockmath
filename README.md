@@ -297,7 +297,7 @@ When we view slow-motion video from multiple angles simultaenously, we have bull
 [![Neo Dodging Bullets - The Matrix](https://i.ytimg.com/vi/ODmhPsgqGgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ODmhPsgqGgQ&feature=emb_title "Neo Dodging Bullets - The Matrix")
 <br/>**VIDEO 🎥 bullet time from Matrix(1999)**
 
-When we mix bullet time with computational photography, you can generate photogrammetry and other 3D informatics.
+When we mix bullet time with computational photography, you can generate [photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) and other 3D informatics.
 
 We can view slow-motion as a high-resolution time inspection tool. Let us now look at a low-resolution time tool called time lapse.
 
