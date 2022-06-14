@@ -168,11 +168,15 @@ The numerical measurement of time between two moments can be called duration. **
 
 ### EXERCISE 35.2.1
 
-Calculate the duration of two times using a spreadsheet.
+Calculate the duration between two times using a spreadsheet.
+
+  + 5:00 AM; 7:00 PM
+  + 9 AM; 5 PM
+  + 3 AM; 12 PM
 
 ### EXERCISE 35.2.1 EXEMPLAR
 
-Duration is an important calculation for business, so most modern spreadsheets have built-in time functionality.
+Duration is an important calculation for business, so most modern spreadsheets have simple built-in time functionality. For your convenience, a lot of the computation is done in the background.
 
 ```visualbasic
 ="7:00PM"-"5:00AM"
@@ -180,7 +184,6 @@ Duration is an important calculation for business, so most modern spreadsheets h
 > **NOTE:** You must change the spreadsheet cell format to "Duration".
 
 [**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1VqHJXqH78zOxD1AmwDdRc8czpargdVxZuRtGy5PKpIo/copy) to get started. Change the start time or end time to find new durations.
-
 
 In this math workbook, slices describe *the parts of a whole,* like the slices from a pie (or pizza). Sometimes these fractions are combined with other whole pies.
 
