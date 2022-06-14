@@ -1,4 +1,7 @@
-# Table C: Music Playlist
+# Table C
+
+
+### Music Playlist
 
 This music playlist is a collection of songs that are related to time, clocks, days or other topics in this clock math workbook.
 
@@ -9,6 +12,7 @@ These songs are not in any particular order right now. This list is subject to c
 Song | Artist/Group 
 :--- | :---
 The longest time  |  Billy Joel
+Rock Around The Clock | Bill Haley & His Comets
 The time of my life  |  Bill Medley and Jennifer Warnes
 Remember the time  |  Michael Jackson
 Time is on my side  |  Rolling Stones
