@@ -562,6 +562,15 @@ S - R = 476
 
 The day length is 476 minutes, which equals **7 hours and 56 minutes.**
 
+### EXERCISE 35.5.3
+
+Calculate the day length using a spreadsheet.
+
+### EXERCISE 35.5.3 EXEMPLAR
+
+[**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1fZvg2MyGkdefRPGuOJgnO_bZOPNfJ97tdpqd3MUDsys/copy) to get started. Change the sunrise and sunset times to get new day lengths.
+
+
 
 
 # 35.6 Day Slices
