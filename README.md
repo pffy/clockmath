@@ -161,6 +161,22 @@ Using another example, in the tech industry, the second Tuesday of every month i
 
 The numerical measurement of time between two moments can be called duration. **Duration** is a length of time. In other words, duration is a slice of time that describes the distance between two moments.
 
+### EXERCISE 35.2.1
+
+Calculate the duration of two times using a spreadsheet.
+
+### EXERCISE 35.2.1 EXEMPLAR
+
+Duration is an important calculation for business, so most modern spreadsheets have built-in time functionality.
+
+```visualbasic
+="7:00 PM"-"5:00 AM"
+```
+> **NOTE:** You must change the spreadsheet cell format to "Duration".
+
+[**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1VqHJXqH78zOxD1AmwDdRc8czpargdVxZuRtGy5PKpIo/copy) to get started. Change the start time or end time to find new durations.
+
+
 In this workbook, slices describe the parts of a whole, like the slices from a pie (or pizza). Sometimes these fractions are combined with other whole pies.
 
 Think about leftover pizza from a birthday party and how you combine the slices for storage in the freezer or donation to charities that fight hunger. As you collect mutliple leftovers from multiple boxes, you will accumulate bundles of pizza (whole pizzas) that can be eaten later.
