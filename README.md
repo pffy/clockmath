@@ -494,13 +494,13 @@ We can also find:
 ```
 ### EXERCISE 35.3.2
 
-Repeat EXERCISE 35.3.1 using a spreadsheet.
+Repeat [EXERCISE 35.3.1](#exercise-3531) using a spreadsheet.
 
 ### EXERCISE 35.3.2 EXEMPLAR
 
 There are many possible solutions.
 
-For example, we could use the built-in [=HOUR()](https://support.google.com/docs/answer/3093045) and [=MINUTE()](https://support.google.com/docs/answer/3093048) formulas in Google Sheets to calculate the number of minutes since midnight.
+For example, we could use the built-in [HOUR](https://support.google.com/docs/answer/3093045) and [MINUTE](https://support.google.com/docs/answer/3093048) formulas in Google Sheets to calculate the number of minutes since midnight.
 
 ```visualbasic
 =HOUR("6:30AM") * 60 + MINUTE("6:30AM") & " minutes since midnight"
@@ -508,7 +508,7 @@ For example, we could use the built-in [=HOUR()](https://support.google.com/docs
 
 > **NOTE:** The ampersand sign `&` is used to [concatenate](https://support.google.com/docs/answer/3094123) strings in spreadsheets
 
-Also, we could use the [=TIMEVALUE()](https://support.google.com/docs/answer/3267350) formula to calculate the percentage of the day elapsed.
+Also, we could use the [TIMEVALUE](https://support.google.com/docs/answer/3267350) formula to calculate the percentage of the day elapsed.
 
 ```visualbasic
 =TIMEVALUE("6:30AM")
