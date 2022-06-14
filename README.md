@@ -419,21 +419,53 @@ In order to "perform work" on clock math problems, we must learn how to convert 
 
 The skills related to clock time conversion wil make solving clock math problems more simple and organized.
 
-### Exercise 35.3.1
+### EXERCISE 35.3.1
 
 Convert the following clock time symbols to:
   - number of minutes since midnight,
   - number of seconds since midnight,
-  - percent of day elapsed
+  - percentage of the day elapsed
 
 ```
 6:30 AM
 13:15
-9:25 PM
+7:25 PM
 12:00 PM
 20:45
 9:00 AM
 17:00
+```
+
+### EXERCISE 35.3.1 EXEMPLAR
+
+We undertsand the first principle that every day has 24 hours (from 35.1 Time Basics). At midnight, a new day begins, so each hour since midnight represents a bundle of 60 minutes.
+
+So, for 6:30 AM:
+```
+[[minutes since midnight]]
+= (6 * 60) + 30
+= 360 + 30
+= 390
+```
+
+Each minute reprents a bundle of 60 seconds.
+
+So, we simply multiply 390 minutes by 60 seconds/minute:
+```
+[[seconds since midnight]]
+= 390 * 60
+= 23400
+```
+
+There are 24 hours in a day. There are 60 minutes per hour. Thus, there are 1440 minutes per day.
+
+We can divide the number of minutes since midnight by the total minutes in the day.
+
+```
+[[percentage of the day elapsed]]
+= 390 / 1440
+= 0.2708
+= 27%
 ```
 
 # 35.4 Clock Slices
