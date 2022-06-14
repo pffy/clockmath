@@ -161,9 +161,6 @@ Automatic updates also occur when computers reach a specific time, which is ofte
 
 > **NOTE:** The SI units for time are seconds. [Learn more](https://physics.nist.gov/cuu/Units/current.html)
 
-Some baking recipes call for heating food in an oven for durations between 75 and 85 minutes. In this case, the recipes are specifically using minutes to bundle the number of seconds needed for baking, while allowing easy comparisons between other baking times.
-
-
 The numerical measurement of time between two moments can be called duration. **Duration** is a length of time. In other words, duration is a slice of time that describes the distance between two moments.
 
 ### EXERCISE 35.2.1
@@ -196,6 +193,10 @@ It is also important to note that even though these pizza slices are bundled, yo
 Music albums are comprised of individual audio tracks. Each of those tracks can be described with a duration as a clock time (discussed later in [35.3 Clock Basics](#353-clock-basics)) in minutes and seconds.
 
 Instead of using seconds, we use bundles of seconds to describe the various track times.
+
+Some baking recipes call for heating food in an oven for durations between 75 and 85 minutes. In this case, the recipes are specifically using minutes to bundle the number of seconds needed for baking, while allowing easy comparisons between other baking times.
+
+Even though seconds are used to measure time from moment to moment, we bundle those seconds into larger units in order more efficiently use time as a tool to better communicate or understand ideas.
 
 | quantity  | = | bundle |
 | :---: | :---: | :---: |
