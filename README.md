@@ -515,9 +515,53 @@ Find the sunrise times, sunset times, and day lengths for different locations ar
 + October 31
 + December 25
 
+### EXERCISE 35.5.1 EXEMPLAR
+
+We know that sunrise and sunset depend on both date and location. So, we can pick a random location for these dates.
+
+For January 1, 2022, we will use London as the location.
+
+We use Wolfram Alpha as our information source with the following queries:
+
+  + [sunrise january 1 2022 london](https://www.wolframalpha.com/input?i=sunrise+january+1+2022+london)
+  + [sunset january 1 2022 london](https://www.wolframalpha.com/input?i=sunset+january+1+2022+london)
+  + [day length january 1 2022 london](https://www.wolframalpha.com/input?i=day+length+january+1+2022+london)
+
+We find that sunrise and sunset are 8:06 AM and 4:02 PM, respectively. Also, the day length is computed by Wolfram Alpha to be 7 hours and 56 minutes.
+
 ### EXERCISE 35.5.2
 
 Convert the sunrise and sunset clock times in [EXERCISE 35.5.1](#exercise-3551) to scalars. Add units of "minutes since midnight" for each conversion. Calculate the day length for each location using units of "minutes of daylight" for the day length time slice.
+
+### EXERCISE 35.5.2 EXEMPLAR
+
+We calculate the number of minutes since midnight for sunrise.
+
+For sunrise at 8:06 AM:
+```
+[[minutes since midnight]]
+R = 8 * 60 + 6 
+We have enough information to calculate day length.
+
+R = 486
+```
+
+Then, we calculate the distance from midnight for sunset.
+
+For sunset at 4:02 PM:
+```
+[[minutes since midnight]]
+S = 16 * 60 + 2 
+S = 962
+```
+We now have enough information to calculate day length.
+```
+[[minutes of daylight]]
+S - R = 962 - 486
+S - R = 476
+```
+
+The day length is 476 minutes, which equals **7 hours and 56 minutes.**
 
 
 
