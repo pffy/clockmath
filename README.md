@@ -568,6 +568,12 @@ Calculate the day length using a spreadsheet.
 
 ### EXERCISE 35.5.3 EXEMPLAR
 
+There are many solutions. Here is a possible one in Google Sheets that uses the [TEXT formula](https://support.google.com/docs/answer/3094139). Note the back slashes used to "escape" the special characters in the format syntax.
+
+```visualbasic
+=TEXT("4:02PM"-"8:06AM","h \hour\s, m \minut\e\s")
+```
+
 [**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1fZvg2MyGkdefRPGuOJgnO_bZOPNfJ97tdpqd3MUDsys/copy) to get started. Change the sunrise and sunset times to get new day lengths.
 
 
