@@ -1,6 +1,6 @@
 > # 🚧🚧 ***migration to GitHub in progress***
 
-***Updated June 13, 2022***
+***Updated June 14, 2022***
 
 The Clock Math Intervention Workbook is an open educational resource (OER) created as part of a **small group college math intervention.** This OER has been designed to help improve self-efficacy for college students solving clock math arithemtic and ***elapsed time word problems in developmental math settings.***
 
@@ -318,6 +318,20 @@ Also, we can watch plants grow over several days.
 
 [![Bean Time-Lapse - 25 days - Soil cross section](https://i.ytimg.com/vi/w77zPAtVTuI/mqdefault.jpg)](https://www.youtube.com/watch?v=w77zPAtVTuI "Bean Time-Lapse - 25 days - Soil cross section")
 <br/>**VIDEO 🎥 bean sprout time-lapse**
+
+## High-frequency trading
+
+Time is money. 
+
+This maxim is more relevant than ever on Wall Street and financial markets. Around the clock, money is constantly moving or growing depending on the investment decisions of investors. Technology allows computers to now make thousands of decisions every second or millisecond, which allows more trades to be executed than is humanly possible.
+
+**High-frequency trading (HFT)** is the new way that institutional investors buy and sell securities through computerized and automated trading platforms. HFT removes the "thinking time" and "reaction time" from investing and allows the daily trading procedures to be managed by technology. This provides a significant time advantage over human investors.
+
+Many of these HFT systems constantly monitor several data sources and news feeds to automatically make investment decisions for institution investors (even while they are sleeping). The reaction time and trade execution time have been optimized over many years to be fast and profitable, making several thousand trades every second. 
+
+By the time a human investor performs research and makes an investment decision, the price action of a stock has already changed, which may make the investment research outdated or useless. Also, an automated HFT system may have bought and sold the same stock thousands of times making small profits per trade that add up to significant returns over time.
+
+For humans, time is passing in seconds. For the HFT systems, time is passing in milliseconds (a thousand views per second) or even microseconds (a million views per second), depending on the quality of software, hardware, Internet connection, and proximity to trading centers.
 
 In the next section, we discuss how innovation in timekeeping gives us more time to focus on other things.
 
