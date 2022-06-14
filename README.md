@@ -157,7 +157,12 @@ We use this understanding to plan for the future. For example, if something is s
 
 Using another example, in the tech industry, the second Tuesday of every month is called **[Patch Tuesday](https://www.techrepublic.com/article/insiders-guide-to-managing-microsoft-patch-tuesday/)**. The predictability of this day allows companies to plan for computer hardware and software maintenance.
 
+Automatic updates also occur when computers reach a specific time, which is often coordinated to occur during Patch Tuesday. Computers cannot read a calendar or check clocks like humans. Instead, the internal logic implements [UNIX epoch time](https://en.wikipedia.org/wiki/Unix_time) or a similar time system. Thie time is often delivered in seconds or microseconds. 
+
 > **NOTE:** The SI units for time are seconds. [Learn more](https://physics.nist.gov/cuu/Units/current.html)
+
+Some baking recipes call for heating food in an oven for durations between 75 and 85 minutes. In this case, the recipes are specifically using minutes to bundle the number of seconds needed for baking, while allowing easy comparisons between other baking times.
+
 
 The numerical measurement of time between two moments can be called duration. **Duration** is a length of time. In other words, duration is a slice of time that describes the distance between two moments.
 
@@ -170,20 +175,18 @@ Calculate the duration of two times using a spreadsheet.
 Duration is an important calculation for business, so most modern spreadsheets have built-in time functionality.
 
 ```visualbasic
-="7:00 PM"-"5:00 AM"
+="7:00PM"-"5:00AM"
 ```
 > **NOTE:** You must change the spreadsheet cell format to "Duration".
 
 [**Copy this Google spreadsheet**](https://docs.google.com/spreadsheets/d/1VqHJXqH78zOxD1AmwDdRc8czpargdVxZuRtGy5PKpIo/copy) to get started. Change the start time or end time to find new durations.
 
 
-In this workbook, slices describe the parts of a whole, like the slices from a pie (or pizza). Sometimes these fractions are combined with other whole pies.
+In this math workbook, slices describe *the parts of a whole,* like the slices from a pie (or pizza). Sometimes these fractions are combined with other whole pies.
 
 Think about leftover pizza from a birthday party and how you combine the slices for storage in the freezer or donation to charities that fight hunger. As you collect mutliple leftovers from multiple boxes, you will accumulate bundles of pizza (whole pizzas) that can be eaten later.
 
 It is also important to note that even though these pizza slices are bundled, you still know how many total slices that are available.
-
-> **NOTE:** Some baking recipes call for heating food in an oven for durations between 75 and 85 minutes. In this case, the recipes are specifically using minutes to bundle the number of seconds needed for baking, while allowing easy comparisons between other baking times.
 
 Music albums are comprised of individual audio tracks. Each of those tracks can be described with a duration as a clock time (discussed later in [35.3 Clock Basics](#353-clock-basics)) in minutes and seconds.
 
