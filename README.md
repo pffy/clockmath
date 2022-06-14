@@ -473,11 +473,45 @@ There are 24 hours in a day. There are 60 minutes per hour. Thus, there are 1440
 
 We can divide the number of minutes since midnight by the total minutes in the day.
 
+We find the percentage:
 ```
 [[percentage of the day elapsed]]
 = 390 / 1440
 = 0.2708
 = 27%
+```
+
+We can double-check our work by using seconds instead of minutes. 
+
+There are 86400 seconds per day.
+
+We can also find:
+```
+[[percentage of the day elapsed]]
+= 23400 / 86400
+= 0.2708
+= 27%
+```
+### EXERCISE 35.3.2
+
+Repeat EXERCISE 35.3.1 using a spreadsheet.
+
+### EXERCISE 35.3.2 EXEMPLAR
+
+There are many possible solutions.
+
+For example, we could use the built-in [=HOUR()](https://support.google.com/docs/answer/3093045) and [=MINUTE()](https://support.google.com/docs/answer/3093048) formulas in Google Sheets to calculate the number of minutes since midnight.
+
+```visualbasic
+=HOUR("6:30AM") * 60 + MINUTE("6:30AM") & " minutes since midnight"
+```
+
+> **NOTE:** The ampersand sign `&` is used to [concatenate](https://support.google.com/docs/answer/3094123) strings in spreadsheets
+
+Also, we could use the [=TIMEVALUE()](https://support.google.com/docs/answer/3267350) formula to calculate the percentage of the day elapsed.
+
+```visualbasic
+=TIMEVALUE("6:30AM")
 ```
 
 # 35.4 Clock Slices
