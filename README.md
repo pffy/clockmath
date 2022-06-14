@@ -541,8 +541,6 @@ For sunrise at 8:06 AM:
 ```
 [[minutes since midnight]]
 R = 8 * 60 + 6 
-We have enough information to calculate day length.
-
 R = 486
 ```
 
@@ -554,6 +552,7 @@ For sunset at 4:02 PM:
 S = 16 * 60 + 2 
 S = 962
 ```
+
 We now have enough information to calculate day length.
 ```
 [[minutes of daylight]]
